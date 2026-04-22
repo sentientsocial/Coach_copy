@@ -1,0 +1,19 @@
+{
+  "name": "sentient-coach/ai-meditation-coach",
+  "description": "Sentient AI Coach - PHP-based AI meditation coaching system",
+  "type": "project",
+  "require": {
+    "php": "^8.1",
+    "guzzlehttp/guzzle": "^7.5",
+    "vlucas/phpdotenv": "^5.4",
+    "symfony/http-foundation": "^6.0",
+    "twig/twig": "^3.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "SentientCoach\\": "src/"
+    }
+  },
+  "minimum-stability": "stable",
+  "prefer-stable": true
+} 
