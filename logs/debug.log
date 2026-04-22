@@ -1,0 +1,1831 @@
+
+
+=== /plan entered ===
+plan_exists=yes
+questionnaire_complete=yes
+ai_chat_complete=no
+legacy_complete=no
+answers_count=7
+answer_keys=1,2,3,4,5,6,7
+rendering=plan_view
+
+=== /plan entered ===
+plan_exists=yes
+questionnaire_complete=yes
+ai_chat_complete=no
+legacy_complete=no
+answers_count=7
+answer_keys=1,2,3,4,5,6,7
+rendering=plan_view
+
+=== /plan entered ===
+plan_exists=yes
+questionnaire_complete=yes
+ai_chat_complete=no
+legacy_complete=no
+answers_count=7
+answer_keys=1,2,3,4,5,6,7
+rendering=plan_view
+
+=== /plan entered ===
+plan_exists=yes
+questionnaire_complete=yes
+ai_chat_complete=no
+legacy_complete=no
+answers_count=7
+answer_keys=1,2,3,4,5,6,7
+rendering=plan_view
+
+=== /plan entered ===
+plan_exists=yes
+questionnaire_complete=yes
+ai_chat_complete=no
+legacy_complete=no
+answers_count=7
+answer_keys=1,2,3,4,5,6,7
+rendering=plan_view
+
+=== /plan entered ===
+plan_exists=yes
+questionnaire_complete=yes
+ai_chat_complete=no
+legacy_complete=no
+answers_count=7
+answer_keys=1,2,3,4,5,6,7
+rendering=plan_view
+Question 1: No previous answer found
+[FRONTEND] Loading Q1: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "undefined", selectedOption: "null", isCustomAnswer: undefined
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] Q1 - Using selected option: "Stress reduction"
+
+=== DEBUG submitAnswer for Q1 ===
+Answer received: 'Stress reduction'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Stress reduction","isCustomAnswer":false,"timestamp":"2025-09-10 12:18:23"}}
+Next question calculated: 2
+Question 2: No previous answer found
+[FRONTEND] Loading Q2: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "", selectedOption: "Stress reduction", isCustomAnswer: false
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] Q2 - Using selected option: "10 mins"
+
+=== DEBUG submitAnswer for Q2 ===
+Answer received: '10 mins'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Stress reduction","isCustomAnswer":false,"timestamp":"2025-09-10 12:18:23"},"2":{"questionNumber":2,"question":"How many minutes a week would you like to commit to your meditation practcei?","answer":"10 mins","isCustomAnswer":false,"timestamp":"2025-09-10 12:18:25"}}
+Next question calculated: 3
+Question 3: No previous answer found
+[FRONTEND] Loading Q3: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "", selectedOption: "10 mins", isCustomAnswer: false
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+
+=== DEBUG submitAnswer for Q3 ===
+Answer received: '1 time | Guided meditation'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Stress reduction","isCustomAnswer":false,"timestamp":"2025-09-10 12:18:23"},"2":{"questionNumber":2,"question":"How many minutes a week would you like to commit to your meditation practcei?","answer":"10 mins","isCustomAnswer":false,"timestamp":"2025-09-10 12:18:25"},"3":{"questionNumber":3,"question":"How many rest days a week would you like to include?","answer":"1 time | Guided meditation","isCustomAnswer":false,"timestamp":"2025-09-10 12:18:29"}}
+Next question calculated: 4
+Question 4: No previous answer found
+[FRONTEND] Loading Q4: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] Q4 - Using selected option: "App"
+
+=== DEBUG submitAnswer for Q4 ===
+Answer received: 'App'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Stress reduction","isCustomAnswer":false,"timestamp":"2025-09-10 12:18:23"},"2":{"questionNumber":2,"question":"How many minutes a week would you like to commit to your meditation practcei?","answer":"10 mins","isCustomAnswer":false,"timestamp":"2025-09-10 12:18:25"},"3":{"questionNumber":3,"question":"How many rest days a week would you like to include?","answer":"1 time | Guided meditation","isCustomAnswer":false,"timestamp":"2025-09-10 12:18:29"},"4":{"questionNumber":4,"question":"Where do you currently find your meditation content or support?","answer":"App","isCustomAnswer":false,"timestamp":"2025-09-10 12:18:31"}}
+Next question calculated: 5
+Question 5: No previous answer found
+[FRONTEND] Loading Q5: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "", selectedOption: "App", isCustomAnswer: false
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] Q5 - Using selected option: "Sufi"
+
+=== DEBUG submitAnswer for Q5 ===
+Answer received: 'Sufi'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Stress reduction","isCustomAnswer":false,"timestamp":"2025-09-10 12:18:23"},"2":{"questionNumber":2,"question":"How many minutes a week would you like to commit to your meditation practcei?","answer":"10 mins","isCustomAnswer":false,"timestamp":"2025-09-10 12:18:25"},"3":{"questionNumber":3,"question":"How many rest days a week would you like to include?","answer":"1 time | Guided meditation","isCustomAnswer":false,"timestamp":"2025-09-10 12:18:29"},"4":{"questionNumber":4,"question":"Where do you currently find your meditation content or support?","answer":"App","isCustomAnswer":false,"timestamp":"2025-09-10 12:18:31"},"5":{"questionNumber":5,"question":"Do you have a preferred tradition or type of meditation?","answer":"Sufi","isCustomAnswer":false,"timestamp":"2025-09-10 12:18:34"}}
+Next question calculated: 6
+Question 6: No previous answer found
+[FRONTEND] Loading Q6: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "", selectedOption: "Sufi", isCustomAnswer: false
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] Q6 - Using selected option: "Beginner"
+
+=== DEBUG submitAnswer for Q6 ===
+Answer received: 'Beginner'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Stress reduction","isCustomAnswer":false,"timestamp":"2025-09-10 12:18:23"},"2":{"questionNumber":2,"question":"How many minutes a week would you like to commit to your meditation practcei?","answer":"10 mins","isCustomAnswer":false,"timestamp":"2025-09-10 12:18:25"},"3":{"questionNumber":3,"question":"How many rest days a week would you like to include?","answer":"1 time | Guided meditation","isCustomAnswer":false,"timestamp":"2025-09-10 12:18:29"},"4":{"questionNumber":4,"question":"Where do you currently find your meditation content or support?","answer":"App","isCustomAnswer":false,"timestamp":"2025-09-10 12:18:31"},"5":{"questionNumber":5,"question":"Do you have a preferred tradition or type of meditation?","answer":"Sufi","isCustomAnswer":false,"timestamp":"2025-09-10 12:18:34"},"6":{"questionNumber":6,"question":"How comfortable are you with meditation techniques or practices?","answer":"Beginner","isCustomAnswer":false,"timestamp":"2025-09-10 12:18:36"}}
+Should show Q6.5? NO
+Next question calculated: 7
+Question 7: No previous answer found
+[FRONTEND] Loading Q7: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "", selectedOption: "Beginner", isCustomAnswer: false
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] Q7 - Using selected option: "Finding time"
+
+=== DEBUG submitAnswer for Q7 ===
+Answer received: 'Finding time'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Stress reduction","isCustomAnswer":false,"timestamp":"2025-09-10 12:18:23"},"2":{"questionNumber":2,"question":"How many minutes a week would you like to commit to your meditation practcei?","answer":"10 mins","isCustomAnswer":false,"timestamp":"2025-09-10 12:18:25"},"3":{"questionNumber":3,"question":"How many rest days a week would you like to include?","answer":"1 time | Guided meditation","isCustomAnswer":false,"timestamp":"2025-09-10 12:18:29"},"4":{"questionNumber":4,"question":"Where do you currently find your meditation content or support?","answer":"App","isCustomAnswer":false,"timestamp":"2025-09-10 12:18:31"},"5":{"questionNumber":5,"question":"Do you have a preferred tradition or type of meditation?","answer":"Sufi","isCustomAnswer":false,"timestamp":"2025-09-10 12:18:34"},"6":{"questionNumber":6,"question":"How comfortable are you with meditation techniques or practices?","answer":"Beginner","isCustomAnswer":false,"timestamp":"2025-09-10 12:18:36"},"7":{"questionNumber":7,"question":"What specific challenges do you face when trying to meditate?","answer":"Finding time","isCustomAnswer":false,"timestamp":"2025-09-10 12:18:38"}}
+Next question calculated: complete
+
+=== /plan entered ===
+plan_exists=yes
+questionnaire_complete=yes
+ai_chat_complete=no
+legacy_complete=no
+answers_count=7
+answer_keys=1,2,3,4,5,6,7
+rendering=plan_view
+
+=== /plan entered ===
+plan_exists=yes
+questionnaire_complete=yes
+ai_chat_complete=no
+legacy_complete=no
+answers_count=7
+answer_keys=1,2,3,4,5,6,7
+rendering=plan_view
+
+=== /plan entered ===
+plan_exists=yes
+questionnaire_complete=yes
+ai_chat_complete=no
+legacy_complete=no
+answers_count=7
+answer_keys=1,2,3,4,5,6,7
+rendering=plan_view
+
+=== /plan entered ===
+plan_exists=yes
+questionnaire_complete=yes
+ai_chat_complete=no
+legacy_complete=no
+answers_count=7
+answer_keys=1,2,3,4,5,6,7
+rendering=plan_view
+
+=== /plan entered ===
+plan_exists=yes
+questionnaire_complete=yes
+ai_chat_complete=no
+legacy_complete=no
+answers_count=7
+answer_keys=1,2,3,4,5,6,7
+rendering=plan_view
+
+=== /plan entered ===
+plan_exists=yes
+questionnaire_complete=yes
+ai_chat_complete=no
+legacy_complete=no
+answers_count=7
+answer_keys=1,2,3,4,5,6,7
+rendering=plan_view
+renderTemplate_called_with=landing
+variables_extracted=yes
+template_included_successfully=yes
+content_length=4853
+renderTemplate_called_with=landing
+variables_extracted=yes
+template_included_successfully=yes
+content_length=4853
+renderTemplate_called_with=questionnaire
+variables_extracted=yes
+template_included_successfully=yes
+content_length=9450
+Question 1: No previous answer found
+[FRONTEND] Loading Q1: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "undefined", selectedOption: "null", isCustomAnswer: undefined
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] Q1 - Using selected option: "Stress reduction"
+
+=== DEBUG submitAnswer for Q1 ===
+Answer received: 'Stress reduction'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Stress reduction","isCustomAnswer":false,"timestamp":"2025-09-10 13:36:52"}}
+Next question calculated: 2
+Question 2: No previous answer found
+[FRONTEND] Loading Q2: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "", selectedOption: "Stress reduction", isCustomAnswer: false
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] Q2 - Using selected option: "5min"
+
+=== DEBUG submitAnswer for Q2 ===
+Answer received: '5min'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Stress reduction","isCustomAnswer":false,"timestamp":"2025-09-10 13:36:52"},"2":{"questionNumber":2,"question":"How many minutes a week would you like to commit to your meditation practcei?","answer":"5min","isCustomAnswer":false,"timestamp":"2025-09-10 13:36:54"}}
+Next question calculated: 3
+Question 3: No previous answer found
+[FRONTEND] Loading Q3: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "", selectedOption: "5min", isCustomAnswer: false
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+
+=== DEBUG submitAnswer for Q3 ===
+Answer received: '1 time | Both'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Stress reduction","isCustomAnswer":false,"timestamp":"2025-09-10 13:36:52"},"2":{"questionNumber":2,"question":"How many minutes a week would you like to commit to your meditation practcei?","answer":"5min","isCustomAnswer":false,"timestamp":"2025-09-10 13:36:54"},"3":{"questionNumber":3,"question":"How many rest days a week would you like to include?","answer":"1 time | Both","isCustomAnswer":false,"timestamp":"2025-09-10 13:36:57"}}
+Next question calculated: 4
+Question 4: No previous answer found
+[FRONTEND] Loading Q4: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] Q4 - Using selected option: "App"
+
+=== DEBUG submitAnswer for Q4 ===
+Answer received: 'App'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Stress reduction","isCustomAnswer":false,"timestamp":"2025-09-10 13:36:52"},"2":{"questionNumber":2,"question":"How many minutes a week would you like to commit to your meditation practcei?","answer":"5min","isCustomAnswer":false,"timestamp":"2025-09-10 13:36:54"},"3":{"questionNumber":3,"question":"How many rest days a week would you like to include?","answer":"1 time | Both","isCustomAnswer":false,"timestamp":"2025-09-10 13:36:57"},"4":{"questionNumber":4,"question":"Where do you currently find your meditation content or support?","answer":"App","isCustomAnswer":false,"timestamp":"2025-09-10 13:36:59"}}
+Next question calculated: 5
+Question 5: No previous answer found
+[FRONTEND] Loading Q5: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "", selectedOption: "App", isCustomAnswer: false
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] Q5 - Using selected option: "Sufi"
+
+=== DEBUG submitAnswer for Q5 ===
+Answer received: 'Sufi'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Stress reduction","isCustomAnswer":false,"timestamp":"2025-09-10 13:36:52"},"2":{"questionNumber":2,"question":"How many minutes a week would you like to commit to your meditation practcei?","answer":"5min","isCustomAnswer":false,"timestamp":"2025-09-10 13:36:54"},"3":{"questionNumber":3,"question":"How many rest days a week would you like to include?","answer":"1 time | Both","isCustomAnswer":false,"timestamp":"2025-09-10 13:36:57"},"4":{"questionNumber":4,"question":"Where do you currently find your meditation content or support?","answer":"App","isCustomAnswer":false,"timestamp":"2025-09-10 13:36:59"},"5":{"questionNumber":5,"question":"Do you have a preferred tradition or type of meditation?","answer":"Sufi","isCustomAnswer":false,"timestamp":"2025-09-10 13:37:01"}}
+Next question calculated: 6
+Question 6: No previous answer found
+[FRONTEND] Loading Q6: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "", selectedOption: "Sufi", isCustomAnswer: false
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] Q6 - Using selected option: "Beginner"
+
+=== DEBUG submitAnswer for Q6 ===
+Answer received: 'Beginner'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Stress reduction","isCustomAnswer":false,"timestamp":"2025-09-10 13:36:52"},"2":{"questionNumber":2,"question":"How many minutes a week would you like to commit to your meditation practcei?","answer":"5min","isCustomAnswer":false,"timestamp":"2025-09-10 13:36:54"},"3":{"questionNumber":3,"question":"How many rest days a week would you like to include?","answer":"1 time | Both","isCustomAnswer":false,"timestamp":"2025-09-10 13:36:57"},"4":{"questionNumber":4,"question":"Where do you currently find your meditation content or support?","answer":"App","isCustomAnswer":false,"timestamp":"2025-09-10 13:36:59"},"5":{"questionNumber":5,"question":"Do you have a preferred tradition or type of meditation?","answer":"Sufi","isCustomAnswer":false,"timestamp":"2025-09-10 13:37:01"},"6":{"questionNumber":6,"question":"How comfortable are you with meditation techniques or practices?","answer":"Beginner","isCustomAnswer":false,"timestamp":"2025-09-10 13:37:03"}}
+Should show Q6.5? NO
+Next question calculated: 7
+Question 7: No previous answer found
+[FRONTEND] Loading Q7: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "", selectedOption: "Beginner", isCustomAnswer: false
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] Q7 - Using selected option: "Difficulty focusing"
+
+=== DEBUG submitAnswer for Q7 ===
+Answer received: 'Difficulty focusing'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Stress reduction","isCustomAnswer":false,"timestamp":"2025-09-10 13:36:52"},"2":{"questionNumber":2,"question":"How many minutes a week would you like to commit to your meditation practcei?","answer":"5min","isCustomAnswer":false,"timestamp":"2025-09-10 13:36:54"},"3":{"questionNumber":3,"question":"How many rest days a week would you like to include?","answer":"1 time | Both","isCustomAnswer":false,"timestamp":"2025-09-10 13:36:57"},"4":{"questionNumber":4,"question":"Where do you currently find your meditation content or support?","answer":"App","isCustomAnswer":false,"timestamp":"2025-09-10 13:36:59"},"5":{"questionNumber":5,"question":"Do you have a preferred tradition or type of meditation?","answer":"Sufi","isCustomAnswer":false,"timestamp":"2025-09-10 13:37:01"},"6":{"questionNumber":6,"question":"How comfortable are you with meditation techniques or practices?","answer":"Beginner","isCustomAnswer":false,"timestamp":"2025-09-10 13:37:03"},"7":{"questionNumber":7,"question":"What specific challenges do you face when trying to meditate?","answer":"Difficulty focusing","isCustomAnswer":false,"timestamp":"2025-09-10 13:37:06"}}
+Next question calculated: complete
+
+=== /plan entered ===
+plan_exists=yes
+questionnaire_complete=yes
+ai_chat_complete=no
+legacy_complete=no
+answers_count=7
+answer_keys=1,2,3,4,5,6,7
+rendering=plan_view
+about_to_render_with_plan=yes
+renderTemplate_called_with=plan
+variables_extracted=yes
+
+=== PLAN TEMPLATE DEBUG ===
+plan_isset=yes
+plan_is_null=no
+plan_title=A Tranquil Path: Your Journey to Stress-Free Living
+plan_class=SentientCoach\Models\MeditationPlan
+template_included_successfully=yes
+content_length=16759
+template_rendered_successfully=yes
+template_content_length=16759
+renderTemplate_called_with=landing
+variables_extracted=yes
+template_included_successfully=yes
+content_length=4853
+renderTemplate_called_with=landing
+variables_extracted=yes
+template_included_successfully=yes
+content_length=4853
+renderTemplate_called_with=questionnaire
+variables_extracted=yes
+template_included_successfully=yes
+content_length=9450
+
+=== /plan entered ===
+plan_exists=yes
+questionnaire_complete=yes
+ai_chat_complete=no
+legacy_complete=no
+answers_count=7
+answer_keys=1,2,3,4,5,6,7
+rendering=plan_view
+about_to_render_with_plan=yes
+renderTemplate_called_with=plan
+variables_extracted=yes
+
+=== PLAN TEMPLATE DEBUG ===
+plan_isset=yes
+plan_is_null=no
+plan_title=A Tranquil Path: Your Journey to Stress-Free Living
+plan_class=SentientCoach\Models\MeditationPlan
+template_included_successfully=yes
+content_length=16759
+template_rendered_successfully=yes
+template_content_length=16759
+renderTemplate_called_with=landing
+variables_extracted=yes
+template_included_successfully=yes
+content_length=4853
+renderTemplate_called_with=questionnaire
+variables_extracted=yes
+template_included_successfully=yes
+content_length=9450
+Question 1: No previous answer found
+[FRONTEND] Loading Q1: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "undefined", selectedOption: "null", isCustomAnswer: undefined
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] Q1 - Using selected option: "Stress reduction"
+
+=== DEBUG submitAnswer for Q1 ===
+Answer received: 'Stress reduction'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Stress reduction","isCustomAnswer":false,"timestamp":"2025-09-10 13:42:50"}}
+Next question calculated: 2
+Question 2: No previous answer found
+[FRONTEND] Loading Q2: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "", selectedOption: "Stress reduction", isCustomAnswer: false
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] Q2 - Using selected option: "5min"
+
+=== DEBUG submitAnswer for Q2 ===
+Answer received: '5min'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Stress reduction","isCustomAnswer":false,"timestamp":"2025-09-10 13:42:50"},"2":{"questionNumber":2,"question":"How many minutes a week would you like to commit to your meditation practcei?","answer":"5min","isCustomAnswer":false,"timestamp":"2025-09-10 13:42:52"}}
+Next question calculated: 3
+Question 3: No previous answer found
+[FRONTEND] Loading Q3: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "", selectedOption: "5min", isCustomAnswer: false
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+
+=== DEBUG submitAnswer for Q3 ===
+Answer received: '1 time | Self-guided meditation'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Stress reduction","isCustomAnswer":false,"timestamp":"2025-09-10 13:42:50"},"2":{"questionNumber":2,"question":"How many minutes a week would you like to commit to your meditation practcei?","answer":"5min","isCustomAnswer":false,"timestamp":"2025-09-10 13:42:52"},"3":{"questionNumber":3,"question":"How many rest days a week would you like to include?","answer":"1 time | Self-guided meditation","isCustomAnswer":false,"timestamp":"2025-09-10 13:42:55"}}
+Next question calculated: 4
+Question 4: No previous answer found
+[FRONTEND] Loading Q4: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] Q4 - Using selected option: "App"
+
+=== DEBUG submitAnswer for Q4 ===
+Answer received: 'App'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Stress reduction","isCustomAnswer":false,"timestamp":"2025-09-10 13:42:50"},"2":{"questionNumber":2,"question":"How many minutes a week would you like to commit to your meditation practcei?","answer":"5min","isCustomAnswer":false,"timestamp":"2025-09-10 13:42:52"},"3":{"questionNumber":3,"question":"How many rest days a week would you like to include?","answer":"1 time | Self-guided meditation","isCustomAnswer":false,"timestamp":"2025-09-10 13:42:55"},"4":{"questionNumber":4,"question":"Where do you currently find your meditation content or support?","answer":"App","isCustomAnswer":false,"timestamp":"2025-09-10 13:42:57"}}
+Next question calculated: 5
+Question 5: No previous answer found
+[FRONTEND] Loading Q5: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "", selectedOption: "App", isCustomAnswer: false
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] Q5 - Using selected option: "Sufi"
+
+=== DEBUG submitAnswer for Q5 ===
+Answer received: 'Sufi'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Stress reduction","isCustomAnswer":false,"timestamp":"2025-09-10 13:42:50"},"2":{"questionNumber":2,"question":"How many minutes a week would you like to commit to your meditation practcei?","answer":"5min","isCustomAnswer":false,"timestamp":"2025-09-10 13:42:52"},"3":{"questionNumber":3,"question":"How many rest days a week would you like to include?","answer":"1 time | Self-guided meditation","isCustomAnswer":false,"timestamp":"2025-09-10 13:42:55"},"4":{"questionNumber":4,"question":"Where do you currently find your meditation content or support?","answer":"App","isCustomAnswer":false,"timestamp":"2025-09-10 13:42:57"},"5":{"questionNumber":5,"question":"Do you have a preferred tradition or type of meditation?","answer":"Sufi","isCustomAnswer":false,"timestamp":"2025-09-10 13:43:00"}}
+Next question calculated: 6
+Question 6: No previous answer found
+[FRONTEND] Loading Q6: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "", selectedOption: "Sufi", isCustomAnswer: false
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] Q6 - Using selected option: "Intermediate"
+
+=== DEBUG submitAnswer for Q6 ===
+Answer received: 'Intermediate'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Stress reduction","isCustomAnswer":false,"timestamp":"2025-09-10 13:42:50"},"2":{"questionNumber":2,"question":"How many minutes a week would you like to commit to your meditation practcei?","answer":"5min","isCustomAnswer":false,"timestamp":"2025-09-10 13:42:52"},"3":{"questionNumber":3,"question":"How many rest days a week would you like to include?","answer":"1 time | Self-guided meditation","isCustomAnswer":false,"timestamp":"2025-09-10 13:42:55"},"4":{"questionNumber":4,"question":"Where do you currently find your meditation content or support?","answer":"App","isCustomAnswer":false,"timestamp":"2025-09-10 13:42:57"},"5":{"questionNumber":5,"question":"Do you have a preferred tradition or type of meditation?","answer":"Sufi","isCustomAnswer":false,"timestamp":"2025-09-10 13:43:00"},"6":{"questionNumber":6,"question":"How comfortable are you with meditation techniques or practices?","answer":"Intermediate","isCustomAnswer":false,"timestamp":"2025-09-10 13:43:02"}}
+Should show Q6.5? YES
+Next question calculated: 6.5
+Question 6.5: No previous answer found
+[FRONTEND] Loading Q6.5: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "", selectedOption: "Intermediate", isCustomAnswer: false
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: true
+Question 6: Found previous answer: Intermediate
+[FRONTEND] Loading Q6: previousAnswer = Intermediate
+[FRONTEND] Before displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: true
+[FRONTEND] restoreSingleSelectAnswer called with: "Intermediate"
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "Intermediate", isCustomAnswer: false
+[FRONTEND] Q6 - Using selected option: "Beginner"
+
+=== DEBUG submitAnswer for Q6 ===
+Answer received: 'Beginner'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Stress reduction","isCustomAnswer":false,"timestamp":"2025-09-10 13:42:50"},"2":{"questionNumber":2,"question":"How many minutes a week would you like to commit to your meditation practcei?","answer":"5min","isCustomAnswer":false,"timestamp":"2025-09-10 13:42:52"},"3":{"questionNumber":3,"question":"How many rest days a week would you like to include?","answer":"1 time | Self-guided meditation","isCustomAnswer":false,"timestamp":"2025-09-10 13:42:55"},"4":{"questionNumber":4,"question":"Where do you currently find your meditation content or support?","answer":"App","isCustomAnswer":false,"timestamp":"2025-09-10 13:42:57"},"5":{"questionNumber":5,"question":"Do you have a preferred tradition or type of meditation?","answer":"Sufi","isCustomAnswer":false,"timestamp":"2025-09-10 13:43:00"},"6":{"questionNumber":6,"question":"How comfortable are you with meditation techniques or practices?","answer":"Beginner","isCustomAnswer":false,"timestamp":"2025-09-10 13:43:05"}}
+Should show Q6.5? NO
+Next question calculated: 7
+Question 7: No previous answer found
+[FRONTEND] Loading Q7: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "", selectedOption: "Beginner", isCustomAnswer: false
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] Q7 - Using selected option: "Difficulty focusing"
+
+=== DEBUG submitAnswer for Q7 ===
+Answer received: 'Difficulty focusing'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Stress reduction","isCustomAnswer":false,"timestamp":"2025-09-10 13:42:50"},"2":{"questionNumber":2,"question":"How many minutes a week would you like to commit to your meditation practcei?","answer":"5min","isCustomAnswer":false,"timestamp":"2025-09-10 13:42:52"},"3":{"questionNumber":3,"question":"How many rest days a week would you like to include?","answer":"1 time | Self-guided meditation","isCustomAnswer":false,"timestamp":"2025-09-10 13:42:55"},"4":{"questionNumber":4,"question":"Where do you currently find your meditation content or support?","answer":"App","isCustomAnswer":false,"timestamp":"2025-09-10 13:42:57"},"5":{"questionNumber":5,"question":"Do you have a preferred tradition or type of meditation?","answer":"Sufi","isCustomAnswer":false,"timestamp":"2025-09-10 13:43:00"},"6":{"questionNumber":6,"question":"How comfortable are you with meditation techniques or practices?","answer":"Beginner","isCustomAnswer":false,"timestamp":"2025-09-10 13:43:05"},"7":{"questionNumber":7,"question":"What specific challenges do you face when trying to meditate?","answer":"Difficulty focusing","isCustomAnswer":false,"timestamp":"2025-09-10 13:43:06"}}
+Next question calculated: complete
+
+=== /plan entered ===
+plan_exists=yes
+questionnaire_complete=yes
+ai_chat_complete=no
+legacy_complete=no
+answers_count=7
+answer_keys=1,2,3,4,5,6,7
+rendering=plan_view
+about_to_render_with_plan=yes
+renderTemplate_called_with=plan
+variables_extracted=yes
+
+=== PLAN TEMPLATE DEBUG ===
+plan_isset=yes
+plan_is_null=no
+plan_title=Serenity in Minutes: A Beginner's Sufi Meditation Journey
+plan_class=SentientCoach\Models\MeditationPlan
+template_included_successfully=yes
+content_length=16770
+template_rendered_successfully=yes
+template_content_length=16770
+renderTemplate_called_with=landing
+variables_extracted=yes
+template_included_successfully=yes
+content_length=4853
+renderTemplate_called_with=landing
+variables_extracted=yes
+template_included_successfully=yes
+content_length=4853
+renderTemplate_called_with=landing
+variables_extracted=yes
+template_included_successfully=yes
+content_length=4853
+renderTemplate_called_with=landing
+variables_extracted=yes
+template_included_successfully=yes
+content_length=4853
+renderTemplate_called_with=ai-chat
+variables_extracted=yes
+template_included_successfully=yes
+content_length=9009
+
+=== /plan entered ===
+plan_exists=yes
+questionnaire_complete=no
+ai_chat_complete=yes
+legacy_complete=no
+answers_count=0
+answer_keys=none
+rendering=plan_view
+about_to_render_with_plan=yes
+renderTemplate_called_with=plan
+variables_extracted=yes
+
+=== PLAN TEMPLATE DEBUG ===
+plan_isset=yes
+plan_is_null=no
+plan_title=Peaceful Slumber: A Mindful Journey to Better Sleep
+plan_class=SentientCoach\Models\MeditationPlan
+template_included_successfully=yes
+content_length=16759
+template_rendered_successfully=yes
+template_content_length=16759
+
+=== /plan entered ===
+plan_exists=yes
+questionnaire_complete=no
+ai_chat_complete=yes
+legacy_complete=no
+answers_count=0
+answer_keys=none
+rendering=plan_view
+about_to_render_with_plan=yes
+renderTemplate_called_with=plan
+variables_extracted=yes
+
+=== PLAN TEMPLATE DEBUG ===
+plan_isset=yes
+plan_is_null=no
+plan_title=Peaceful Slumber: A Mindful Journey to Better Sleep
+plan_class=SentientCoach\Models\MeditationPlan
+template_included_successfully=yes
+content_length=16759
+template_rendered_successfully=yes
+template_content_length=16759
+renderTemplate_called_with=landing
+variables_extracted=yes
+template_included_successfully=yes
+content_length=4853
+renderTemplate_called_with=questionnaire
+variables_extracted=yes
+template_included_successfully=yes
+content_length=9450
+Question 1: No previous answer found
+[FRONTEND] Loading Q1: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "undefined", selectedOption: "null", isCustomAnswer: undefined
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] Q1 - Using selected option: "Stress reduction"
+
+=== DEBUG submitAnswer for Q1 ===
+Answer received: 'Stress reduction'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Stress reduction","isCustomAnswer":false,"timestamp":"2025-09-10 14:32:43"}}
+Next question calculated: 2
+Question 2: No previous answer found
+[FRONTEND] Loading Q2: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "", selectedOption: "Stress reduction", isCustomAnswer: false
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] Q2 - Using custom answer: "8 mins"
+
+=== DEBUG submitAnswer for Q2 ===
+Answer received: '8 mins'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Stress reduction","isCustomAnswer":false,"timestamp":"2025-09-10 14:32:43"},"2":{"questionNumber":2,"question":"How many minutes a week would you like to commit to your meditation practcei?","answer":"8 mins","isCustomAnswer":true,"timestamp":"2025-09-10 14:32:51"}}
+Next question calculated: 3
+Question 3: No previous answer found
+[FRONTEND] Loading Q3: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "8 mins", selectedOption: "null", isCustomAnswer: true
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+
+=== DEBUG submitAnswer for Q3 ===
+Answer received: '3 times | Self-guided meditation'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Stress reduction","isCustomAnswer":false,"timestamp":"2025-09-10 14:32:43"},"2":{"questionNumber":2,"question":"How many minutes a week would you like to commit to your meditation practcei?","answer":"8 mins","isCustomAnswer":true,"timestamp":"2025-09-10 14:32:51"},"3":{"questionNumber":3,"question":"How many rest days a week would you like to include?","answer":"3 times | Self-guided meditation","isCustomAnswer":false,"timestamp":"2025-09-10 14:32:58"}}
+Next question calculated: 4
+Question 4: No previous answer found
+[FRONTEND] Loading Q4: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] Q4 - Using selected option: "App"
+
+=== DEBUG submitAnswer for Q4 ===
+Answer received: 'App'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Stress reduction","isCustomAnswer":false,"timestamp":"2025-09-10 14:32:43"},"2":{"questionNumber":2,"question":"How many minutes a week would you like to commit to your meditation practcei?","answer":"8 mins","isCustomAnswer":true,"timestamp":"2025-09-10 14:32:51"},"3":{"questionNumber":3,"question":"How many rest days a week would you like to include?","answer":"3 times | Self-guided meditation","isCustomAnswer":false,"timestamp":"2025-09-10 14:32:58"},"4":{"questionNumber":4,"question":"Where do you currently find your meditation content or support?","answer":"App","isCustomAnswer":false,"timestamp":"2025-09-10 14:33:00"}}
+Next question calculated: 5
+Question 5: No previous answer found
+[FRONTEND] Loading Q5: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "", selectedOption: "App", isCustomAnswer: false
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] Q5 - Using selected option: "Sufi"
+
+=== DEBUG submitAnswer for Q5 ===
+Answer received: 'Sufi'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Stress reduction","isCustomAnswer":false,"timestamp":"2025-09-10 14:32:43"},"2":{"questionNumber":2,"question":"How many minutes a week would you like to commit to your meditation practcei?","answer":"8 mins","isCustomAnswer":true,"timestamp":"2025-09-10 14:32:51"},"3":{"questionNumber":3,"question":"How many rest days a week would you like to include?","answer":"3 times | Self-guided meditation","isCustomAnswer":false,"timestamp":"2025-09-10 14:32:58"},"4":{"questionNumber":4,"question":"Where do you currently find your meditation content or support?","answer":"App","isCustomAnswer":false,"timestamp":"2025-09-10 14:33:00"},"5":{"questionNumber":5,"question":"Do you have a preferred tradition or type of meditation?","answer":"Sufi","isCustomAnswer":false,"timestamp":"2025-09-10 14:33:04"}}
+Next question calculated: 6
+Question 6: No previous answer found
+[FRONTEND] Loading Q6: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "", selectedOption: "Sufi", isCustomAnswer: false
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] Q6 - Using selected option: "Beginner"
+
+=== DEBUG submitAnswer for Q6 ===
+Answer received: 'Beginner'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Stress reduction","isCustomAnswer":false,"timestamp":"2025-09-10 14:32:43"},"2":{"questionNumber":2,"question":"How many minutes a week would you like to commit to your meditation practcei?","answer":"8 mins","isCustomAnswer":true,"timestamp":"2025-09-10 14:32:51"},"3":{"questionNumber":3,"question":"How many rest days a week would you like to include?","answer":"3 times | Self-guided meditation","isCustomAnswer":false,"timestamp":"2025-09-10 14:32:58"},"4":{"questionNumber":4,"question":"Where do you currently find your meditation content or support?","answer":"App","isCustomAnswer":false,"timestamp":"2025-09-10 14:33:00"},"5":{"questionNumber":5,"question":"Do you have a preferred tradition or type of meditation?","answer":"Sufi","isCustomAnswer":false,"timestamp":"2025-09-10 14:33:04"},"6":{"questionNumber":6,"question":"How comfortable are you with meditation techniques or practices?","answer":"Beginner","isCustomAnswer":false,"timestamp":"2025-09-10 14:33:06"}}
+Should show Q6.5? NO
+Next question calculated: 7
+Question 7: No previous answer found
+[FRONTEND] Loading Q7: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "", selectedOption: "Beginner", isCustomAnswer: false
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] Q7 - Using selected option: "Finding time"
+
+=== DEBUG submitAnswer for Q7 ===
+Answer received: 'Finding time'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Stress reduction","isCustomAnswer":false,"timestamp":"2025-09-10 14:32:43"},"2":{"questionNumber":2,"question":"How many minutes a week would you like to commit to your meditation practcei?","answer":"8 mins","isCustomAnswer":true,"timestamp":"2025-09-10 14:32:51"},"3":{"questionNumber":3,"question":"How many rest days a week would you like to include?","answer":"3 times | Self-guided meditation","isCustomAnswer":false,"timestamp":"2025-09-10 14:32:58"},"4":{"questionNumber":4,"question":"Where do you currently find your meditation content or support?","answer":"App","isCustomAnswer":false,"timestamp":"2025-09-10 14:33:00"},"5":{"questionNumber":5,"question":"Do you have a preferred tradition or type of meditation?","answer":"Sufi","isCustomAnswer":false,"timestamp":"2025-09-10 14:33:04"},"6":{"questionNumber":6,"question":"How comfortable are you with meditation techniques or practices?","answer":"Beginner","isCustomAnswer":false,"timestamp":"2025-09-10 14:33:06"},"7":{"questionNumber":7,"question":"What specific challenges do you face when trying to meditate?","answer":"Finding time","isCustomAnswer":false,"timestamp":"2025-09-10 14:33:10"}}
+Next question calculated: complete
+
+=== /plan entered ===
+plan_exists=yes
+questionnaire_complete=yes
+ai_chat_complete=yes
+legacy_complete=no
+answers_count=7
+answer_keys=1,2,3,4,5,6,7
+rendering=plan_view
+about_to_render_with_plan=yes
+renderTemplate_called_with=plan
+variables_extracted=yes
+
+=== PLAN TEMPLATE DEBUG ===
+plan_isset=yes
+plan_is_null=no
+plan_title=Tranquil Beginnings: A Sufi Journey to Stress Reduction
+plan_class=SentientCoach\Models\MeditationPlan
+template_included_successfully=yes
+content_length=16763
+template_rendered_successfully=yes
+template_content_length=16763
+renderTemplate_called_with=landing
+variables_extracted=yes
+template_included_successfully=yes
+content_length=4853
+renderTemplate_called_with=questionnaire
+variables_extracted=yes
+template_included_successfully=yes
+content_length=9450
+renderTemplate_called_with=landing
+variables_extracted=yes
+template_included_successfully=yes
+content_length=4853
+renderTemplate_called_with=ai-chat
+variables_extracted=yes
+template_included_successfully=yes
+content_length=9009
+
+=== /plan entered ===
+plan_exists=yes
+questionnaire_complete=yes
+ai_chat_complete=yes
+legacy_complete=no
+answers_count=7
+answer_keys=1,2,3,4,5,6,7
+rendering=plan_view
+about_to_render_with_plan=yes
+renderTemplate_called_with=plan
+variables_extracted=yes
+
+=== PLAN TEMPLATE DEBUG ===
+plan_isset=yes
+plan_is_null=no
+plan_title=Calm Within: Your Sufi Stress Reduction Journey
+plan_class=SentientCoach\Models\MeditationPlan
+template_included_successfully=yes
+content_length=16755
+template_rendered_successfully=yes
+template_content_length=16755
+renderTemplate_called_with=landing
+variables_extracted=yes
+template_included_successfully=yes
+content_length=4853
+renderTemplate_called_with=questionnaire
+variables_extracted=yes
+template_included_successfully=yes
+content_length=9450
+
+=== /plan entered ===
+plan_exists=yes
+questionnaire_complete=yes
+ai_chat_complete=yes
+legacy_complete=no
+answers_count=7
+answer_keys=1,2,3,4,5,6,7
+rendering=plan_view
+about_to_render_with_plan=yes
+renderTemplate_called_with=plan
+variables_extracted=yes
+
+=== PLAN TEMPLATE DEBUG ===
+plan_isset=yes
+plan_is_null=no
+plan_title=Stress-Free Journey: A Beginner's Sufi Meditation Plan
+plan_class=SentientCoach\Models\MeditationPlan
+template_included_successfully=yes
+content_length=16767
+template_rendered_successfully=yes
+template_content_length=16767
+
+=== /plan entered ===
+plan_exists=yes
+questionnaire_complete=yes
+ai_chat_complete=yes
+legacy_complete=no
+answers_count=7
+answer_keys=1,2,3,4,5,6,7
+rendering=plan_view
+about_to_render_with_plan=yes
+renderTemplate_called_with=plan
+variables_extracted=yes
+
+=== PLAN TEMPLATE DEBUG ===
+plan_isset=yes
+plan_is_null=no
+plan_title=Stress-Free Journey: A Beginner's Sufi Meditation Plan
+plan_class=SentientCoach\Models\MeditationPlan
+template_included_successfully=yes
+content_length=15840
+template_rendered_successfully=yes
+template_content_length=15840
+renderTemplate_called_with=landing
+variables_extracted=yes
+template_included_successfully=yes
+content_length=4853
+renderTemplate_called_with=questionnaire
+variables_extracted=yes
+template_included_successfully=yes
+content_length=9450
+renderTemplate_called_with=landing
+variables_extracted=yes
+template_included_successfully=yes
+content_length=4853
+renderTemplate_called_with=landing
+variables_extracted=yes
+template_included_successfully=yes
+content_length=4853
+renderTemplate_called_with=questionnaire
+variables_extracted=yes
+template_included_successfully=yes
+content_length=9450
+Question 1: No previous answer found
+[FRONTEND] Loading Q1: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "undefined", selectedOption: "null", isCustomAnswer: undefined
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] Q1 - Using selected option: "Focus"
+
+=== DEBUG submitAnswer for Q1 ===
+Answer received: 'Focus'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Focus","isCustomAnswer":false,"timestamp":"2025-09-10 14:47:32"}}
+Next question calculated: 2
+Question 2: No previous answer found
+[FRONTEND] Loading Q2: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "", selectedOption: "Focus", isCustomAnswer: false
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] Q2 - Using selected option: "10 mins"
+
+=== DEBUG submitAnswer for Q2 ===
+Answer received: '10 mins'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Focus","isCustomAnswer":false,"timestamp":"2025-09-10 14:47:32"},"2":{"questionNumber":2,"question":"How many minutes a week would you like to commit to your meditation practcei?","answer":"10 mins","isCustomAnswer":false,"timestamp":"2025-09-10 14:47:40"}}
+Next question calculated: 3
+Question 3: No previous answer found
+[FRONTEND] Loading Q3: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "", selectedOption: "10 mins", isCustomAnswer: false
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+
+=== DEBUG submitAnswer for Q3 ===
+Answer received: '3 times | Both'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Focus","isCustomAnswer":false,"timestamp":"2025-09-10 14:47:32"},"2":{"questionNumber":2,"question":"How many minutes a week would you like to commit to your meditation practcei?","answer":"10 mins","isCustomAnswer":false,"timestamp":"2025-09-10 14:47:40"},"3":{"questionNumber":3,"question":"How many rest days a week would you like to include?","answer":"3 times | Both","isCustomAnswer":false,"timestamp":"2025-09-10 14:47:45"}}
+Next question calculated: 4
+Question 4: No previous answer found
+[FRONTEND] Loading Q4: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] Q4 - Using selected option: "App"
+
+=== DEBUG submitAnswer for Q4 ===
+Answer received: 'App'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Focus","isCustomAnswer":false,"timestamp":"2025-09-10 14:47:32"},"2":{"questionNumber":2,"question":"How many minutes a week would you like to commit to your meditation practcei?","answer":"10 mins","isCustomAnswer":false,"timestamp":"2025-09-10 14:47:40"},"3":{"questionNumber":3,"question":"How many rest days a week would you like to include?","answer":"3 times | Both","isCustomAnswer":false,"timestamp":"2025-09-10 14:47:45"},"4":{"questionNumber":4,"question":"Where do you currently find your meditation content or support?","answer":"App","isCustomAnswer":false,"timestamp":"2025-09-10 14:47:48"}}
+Next question calculated: 5
+Question 5: No previous answer found
+[FRONTEND] Loading Q5: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "", selectedOption: "App", isCustomAnswer: false
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] Q5 - Using custom answer: "Reading Quran"
+
+=== DEBUG submitAnswer for Q5 ===
+Answer received: 'Reading Quran'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Focus","isCustomAnswer":false,"timestamp":"2025-09-10 14:47:32"},"2":{"questionNumber":2,"question":"How many minutes a week would you like to commit to your meditation practcei?","answer":"10 mins","isCustomAnswer":false,"timestamp":"2025-09-10 14:47:40"},"3":{"questionNumber":3,"question":"How many rest days a week would you like to include?","answer":"3 times | Both","isCustomAnswer":false,"timestamp":"2025-09-10 14:47:45"},"4":{"questionNumber":4,"question":"Where do you currently find your meditation content or support?","answer":"App","isCustomAnswer":false,"timestamp":"2025-09-10 14:47:48"},"5":{"questionNumber":5,"question":"Do you have a preferred tradition or type of meditation?","answer":"Reading Quran","isCustomAnswer":true,"timestamp":"2025-09-10 14:48:16"}}
+Next question calculated: 6
+Question 6: No previous answer found
+[FRONTEND] Loading Q6: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "Reading Quran", selectedOption: "null", isCustomAnswer: true
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] Q6 - Using selected option: "Beginner"
+
+=== DEBUG submitAnswer for Q6 ===
+Answer received: 'Beginner'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Focus","isCustomAnswer":false,"timestamp":"2025-09-10 14:47:32"},"2":{"questionNumber":2,"question":"How many minutes a week would you like to commit to your meditation practcei?","answer":"10 mins","isCustomAnswer":false,"timestamp":"2025-09-10 14:47:40"},"3":{"questionNumber":3,"question":"How many rest days a week would you like to include?","answer":"3 times | Both","isCustomAnswer":false,"timestamp":"2025-09-10 14:47:45"},"4":{"questionNumber":4,"question":"Where do you currently find your meditation content or support?","answer":"App","isCustomAnswer":false,"timestamp":"2025-09-10 14:47:48"},"5":{"questionNumber":5,"question":"Do you have a preferred tradition or type of meditation?","answer":"Reading Quran","isCustomAnswer":true,"timestamp":"2025-09-10 14:48:16"},"6":{"questionNumber":6,"question":"How comfortable are you with meditation techniques or practices?","answer":"Beginner","isCustomAnswer":false,"timestamp":"2025-09-10 14:48:19"}}
+Should show Q6.5? NO
+Next question calculated: 7
+Question 7: No previous answer found
+[FRONTEND] Loading Q7: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "", selectedOption: "Beginner", isCustomAnswer: false
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] Q7 - Using selected option: "Low motivation"
+
+=== DEBUG submitAnswer for Q7 ===
+Answer received: 'Low motivation'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Focus","isCustomAnswer":false,"timestamp":"2025-09-10 14:47:32"},"2":{"questionNumber":2,"question":"How many minutes a week would you like to commit to your meditation practcei?","answer":"10 mins","isCustomAnswer":false,"timestamp":"2025-09-10 14:47:40"},"3":{"questionNumber":3,"question":"How many rest days a week would you like to include?","answer":"3 times | Both","isCustomAnswer":false,"timestamp":"2025-09-10 14:47:45"},"4":{"questionNumber":4,"question":"Where do you currently find your meditation content or support?","answer":"App","isCustomAnswer":false,"timestamp":"2025-09-10 14:47:48"},"5":{"questionNumber":5,"question":"Do you have a preferred tradition or type of meditation?","answer":"Reading Quran","isCustomAnswer":true,"timestamp":"2025-09-10 14:48:16"},"6":{"questionNumber":6,"question":"How comfortable are you with meditation techniques or practices?","answer":"Beginner","isCustomAnswer":false,"timestamp":"2025-09-10 14:48:19"},"7":{"questionNumber":7,"question":"What specific challenges do you face when trying to meditate?","answer":"Low motivation","isCustomAnswer":false,"timestamp":"2025-09-10 14:48:23"}}
+Next question calculated: complete
+
+=== /plan entered ===
+plan_exists=yes
+questionnaire_complete=yes
+ai_chat_complete=no
+legacy_complete=no
+answers_count=7
+answer_keys=1,2,3,4,5,6,7
+rendering=plan_view
+about_to_render_with_plan=yes
+renderTemplate_called_with=plan
+variables_extracted=yes
+
+=== PLAN TEMPLATE DEBUG ===
+plan_isset=yes
+plan_is_null=no
+plan_title=Focus & Faith: A Beginner's Journey to Clarity
+plan_class=SentientCoach\Models\MeditationPlan
+template_included_successfully=yes
+content_length=15836
+template_rendered_successfully=yes
+template_content_length=15836
+renderTemplate_called_with=landing
+variables_extracted=yes
+template_included_successfully=yes
+content_length=4853
+renderTemplate_called_with=questionnaire
+variables_extracted=yes
+template_included_successfully=yes
+content_length=9450
+renderTemplate_called_with=landing
+variables_extracted=yes
+template_included_successfully=yes
+content_length=4853
+renderTemplate_called_with=landing
+variables_extracted=yes
+template_included_successfully=yes
+content_length=4853
+renderTemplate_called_with=questionnaire
+variables_extracted=yes
+template_included_successfully=yes
+content_length=9450
+Question 1: No previous answer found
+[FRONTEND] Loading Q1: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "undefined", selectedOption: "null", isCustomAnswer: undefined
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] Q1 - Using selected option: "Decrease anxiety"
+
+=== DEBUG submitAnswer for Q1 ===
+Answer received: 'Decrease anxiety'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Decrease anxiety","isCustomAnswer":false,"timestamp":"2025-09-10 15:41:57"}}
+Next question calculated: 2
+Question 2: No previous answer found
+[FRONTEND] Loading Q2: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "", selectedOption: "Decrease anxiety", isCustomAnswer: false
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] Q2 - Using selected option: "15min"
+
+=== DEBUG submitAnswer for Q2 ===
+Answer received: '15min'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Decrease anxiety","isCustomAnswer":false,"timestamp":"2025-09-10 15:41:57"},"2":{"questionNumber":2,"question":"How many minutes a week would you like to commit to your meditation practcei?","answer":"15min","isCustomAnswer":false,"timestamp":"2025-09-10 15:41:59"}}
+Next question calculated: 3
+Question 3: No previous answer found
+[FRONTEND] Loading Q3: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "", selectedOption: "15min", isCustomAnswer: false
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+renderTemplate_called_with=landing
+variables_extracted=yes
+template_included_successfully=yes
+content_length=4853
+renderTemplate_called_with=landing
+variables_extracted=yes
+template_included_successfully=yes
+content_length=4853
+renderTemplate_called_with=landing
+variables_extracted=yes
+template_included_successfully=yes
+content_length=4853
+renderTemplate_called_with=questionnaire
+variables_extracted=yes
+template_included_successfully=yes
+content_length=9450
+Question 3: No previous answer found
+[FRONTEND] Loading Q3: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "undefined", selectedOption: "null", isCustomAnswer: undefined
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+renderTemplate_called_with=landing
+variables_extracted=yes
+template_included_successfully=yes
+content_length=4853
+renderTemplate_called_with=questionnaire
+variables_extracted=yes
+template_included_successfully=yes
+content_length=9450
+Question 3: No previous answer found
+[FRONTEND] Loading Q3: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "undefined", selectedOption: "null", isCustomAnswer: undefined
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+renderTemplate_called_with=landing
+variables_extracted=yes
+template_included_successfully=yes
+content_length=4853
+renderTemplate_called_with=questionnaire
+variables_extracted=yes
+template_included_successfully=yes
+content_length=9450
+Question 3: No previous answer found
+[FRONTEND] Loading Q3: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "undefined", selectedOption: "null", isCustomAnswer: undefined
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+
+=== DEBUG submitAnswer for Q3 ===
+Answer received: '7 times | Self-guided meditation'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Decrease anxiety","isCustomAnswer":false,"timestamp":"2025-09-10 15:41:57"},"2":{"questionNumber":2,"question":"How many minutes a week would you like to commit to your meditation practcei?","answer":"15min","isCustomAnswer":false,"timestamp":"2025-09-10 15:41:59"},"3":{"questionNumber":3,"question":"How many rest days a week would you like to include?","answer":"7 times | Self-guided meditation","isCustomAnswer":false,"timestamp":"2025-09-10 15:53:14"}}
+Next question calculated: 4
+Question 4: No previous answer found
+[FRONTEND] Loading Q4: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] Q4 - Using selected option: "App"
+
+=== DEBUG submitAnswer for Q4 ===
+Answer received: 'App'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Decrease anxiety","isCustomAnswer":false,"timestamp":"2025-09-10 15:41:57"},"2":{"questionNumber":2,"question":"How many minutes a week would you like to commit to your meditation practcei?","answer":"15min","isCustomAnswer":false,"timestamp":"2025-09-10 15:41:59"},"3":{"questionNumber":3,"question":"How many rest days a week would you like to include?","answer":"7 times | Self-guided meditation","isCustomAnswer":false,"timestamp":"2025-09-10 15:53:14"},"4":{"questionNumber":4,"question":"Where do you currently find your meditation content or support?","answer":"App","isCustomAnswer":false,"timestamp":"2025-09-10 15:53:16"}}
+Next question calculated: 5
+Question 5: No previous answer found
+[FRONTEND] Loading Q5: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "", selectedOption: "App", isCustomAnswer: false
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] Q5 - Using selected option: "Sufi"
+
+=== DEBUG submitAnswer for Q5 ===
+Answer received: 'Sufi'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Decrease anxiety","isCustomAnswer":false,"timestamp":"2025-09-10 15:41:57"},"2":{"questionNumber":2,"question":"How many minutes a week would you like to commit to your meditation practcei?","answer":"15min","isCustomAnswer":false,"timestamp":"2025-09-10 15:41:59"},"3":{"questionNumber":3,"question":"How many rest days a week would you like to include?","answer":"7 times | Self-guided meditation","isCustomAnswer":false,"timestamp":"2025-09-10 15:53:14"},"4":{"questionNumber":4,"question":"Where do you currently find your meditation content or support?","answer":"App","isCustomAnswer":false,"timestamp":"2025-09-10 15:53:16"},"5":{"questionNumber":5,"question":"Do you have a preferred tradition or type of meditation?","answer":"Sufi","isCustomAnswer":false,"timestamp":"2025-09-10 15:53:19"}}
+Next question calculated: 6
+Question 6: No previous answer found
+[FRONTEND] Loading Q6: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "", selectedOption: "Sufi", isCustomAnswer: false
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] Q6 - Using selected option: "Beginner"
+
+=== DEBUG submitAnswer for Q6 ===
+Answer received: 'Beginner'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Decrease anxiety","isCustomAnswer":false,"timestamp":"2025-09-10 15:41:57"},"2":{"questionNumber":2,"question":"How many minutes a week would you like to commit to your meditation practcei?","answer":"15min","isCustomAnswer":false,"timestamp":"2025-09-10 15:41:59"},"3":{"questionNumber":3,"question":"How many rest days a week would you like to include?","answer":"7 times | Self-guided meditation","isCustomAnswer":false,"timestamp":"2025-09-10 15:53:14"},"4":{"questionNumber":4,"question":"Where do you currently find your meditation content or support?","answer":"App","isCustomAnswer":false,"timestamp":"2025-09-10 15:53:16"},"5":{"questionNumber":5,"question":"Do you have a preferred tradition or type of meditation?","answer":"Sufi","isCustomAnswer":false,"timestamp":"2025-09-10 15:53:19"},"6":{"questionNumber":6,"question":"How comfortable are you with meditation techniques or practices?","answer":"Beginner","isCustomAnswer":false,"timestamp":"2025-09-10 15:53:21"}}
+Should show Q6.5? NO
+Next question calculated: 7
+Question 7: No previous answer found
+[FRONTEND] Loading Q7: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "", selectedOption: "Beginner", isCustomAnswer: false
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] Q7 - Using selected option: "Feeling self-critical"
+
+=== DEBUG submitAnswer for Q7 ===
+Answer received: 'Feeling self-critical'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Decrease anxiety","isCustomAnswer":false,"timestamp":"2025-09-10 15:41:57"},"2":{"questionNumber":2,"question":"How many minutes a week would you like to commit to your meditation practcei?","answer":"15min","isCustomAnswer":false,"timestamp":"2025-09-10 15:41:59"},"3":{"questionNumber":3,"question":"How many rest days a week would you like to include?","answer":"7 times | Self-guided meditation","isCustomAnswer":false,"timestamp":"2025-09-10 15:53:14"},"4":{"questionNumber":4,"question":"Where do you currently find your meditation content or support?","answer":"App","isCustomAnswer":false,"timestamp":"2025-09-10 15:53:16"},"5":{"questionNumber":5,"question":"Do you have a preferred tradition or type of meditation?","answer":"Sufi","isCustomAnswer":false,"timestamp":"2025-09-10 15:53:19"},"6":{"questionNumber":6,"question":"How comfortable are you with meditation techniques or practices?","answer":"Beginner","isCustomAnswer":false,"timestamp":"2025-09-10 15:53:21"},"7":{"questionNumber":7,"question":"What specific challenges do you face when trying to meditate?","answer":"Feeling self-critical","isCustomAnswer":false,"timestamp":"2025-09-10 15:53:23"}}
+Next question calculated: complete
+
+=== /plan entered ===
+plan_exists=yes
+questionnaire_complete=yes
+ai_chat_complete=no
+legacy_complete=no
+answers_count=7
+answer_keys=1,2,3,4,5,6,7
+rendering=plan_view
+about_to_render_with_plan=yes
+renderTemplate_called_with=plan
+variables_extracted=yes
+
+=== PLAN TEMPLATE DEBUG ===
+plan_isset=yes
+plan_is_null=no
+plan_title=Serene Sufi: A Week to Calm the Mind
+plan_class=SentientCoach\Models\MeditationPlan
+template_included_successfully=yes
+content_length=15817
+template_rendered_successfully=yes
+template_content_length=15817
+renderTemplate_called_with=landing
+variables_extracted=yes
+template_included_successfully=yes
+content_length=4853
+renderTemplate_called_with=questionnaire
+variables_extracted=yes
+template_included_successfully=yes
+content_length=9450
+Question 1: No previous answer found
+[FRONTEND] Loading Q1: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "undefined", selectedOption: "null", isCustomAnswer: undefined
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+renderTemplate_called_with=landing
+variables_extracted=yes
+template_included_successfully=yes
+content_length=4853
+renderTemplate_called_with=questionnaire
+variables_extracted=yes
+template_included_successfully=yes
+content_length=9450
+Question 1: No previous answer found
+[FRONTEND] Loading Q1: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "undefined", selectedOption: "null", isCustomAnswer: undefined
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+renderTemplate_called_with=questionnaire
+variables_extracted=yes
+template_included_successfully=yes
+content_length=9590
+Question 1: No previous answer found
+[FRONTEND] Loading Q1: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "undefined", selectedOption: "null", isCustomAnswer: undefined
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+renderTemplate_called_with=questionnaire
+variables_extracted=yes
+template_included_successfully=yes
+content_length=9606
+Question 1: No previous answer found
+[FRONTEND] Loading Q1: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "undefined", selectedOption: "null", isCustomAnswer: undefined
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+renderTemplate_called_with=questionnaire
+variables_extracted=yes
+template_included_successfully=yes
+content_length=9340
+Question 1: No previous answer found
+[FRONTEND] Loading Q1: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "undefined", selectedOption: "null", isCustomAnswer: undefined
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+renderTemplate_called_with=landing
+variables_extracted=yes
+template_included_successfully=yes
+content_length=4853
+renderTemplate_called_with=questionnaire
+variables_extracted=yes
+template_included_successfully=yes
+content_length=9340
+Question 1: No previous answer found
+[FRONTEND] Loading Q1: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "undefined", selectedOption: "null", isCustomAnswer: undefined
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+renderTemplate_called_with=landing
+variables_extracted=yes
+template_included_successfully=yes
+content_length=4853
+renderTemplate_called_with=questionnaire
+variables_extracted=yes
+template_included_successfully=yes
+content_length=9340
+Question 1: No previous answer found
+[FRONTEND] Loading Q1: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "undefined", selectedOption: "null", isCustomAnswer: undefined
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+renderTemplate_called_with=landing
+variables_extracted=yes
+template_included_successfully=yes
+content_length=4853
+renderTemplate_called_with=ai-chat
+variables_extracted=yes
+template_included_successfully=yes
+content_length=9014
+renderTemplate_called_with=ai-chat
+variables_extracted=yes
+template_included_successfully=yes
+content_length=9014
+renderTemplate_called_with=landing
+variables_extracted=yes
+template_included_successfully=yes
+content_length=4853
+renderTemplate_called_with=ai-chat
+variables_extracted=yes
+template_included_successfully=yes
+content_length=8835
+renderTemplate_called_with=landing
+variables_extracted=yes
+template_included_successfully=yes
+content_length=4853
+renderTemplate_called_with=questionnaire
+variables_extracted=yes
+template_included_successfully=yes
+content_length=9324
+Question 1: No previous answer found
+[FRONTEND] Loading Q1: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "undefined", selectedOption: "null", isCustomAnswer: undefined
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] Q1 - Using selected option: "Stress reduction"
+
+=== DEBUG submitAnswer for Q1 ===
+Answer received: 'Stress reduction'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Stress reduction","isCustomAnswer":false,"timestamp":"2025-09-10 15:58:13"}}
+Next question calculated: 2
+Question 2: No previous answer found
+[FRONTEND] Loading Q2: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "", selectedOption: "Stress reduction", isCustomAnswer: false
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] Q2 - Using selected option: "5min"
+
+=== DEBUG submitAnswer for Q2 ===
+Answer received: '5min'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Stress reduction","isCustomAnswer":false,"timestamp":"2025-09-10 15:58:13"},"2":{"questionNumber":2,"question":"How many minutes a week would you like to commit to your meditation practice?","answer":"5min","isCustomAnswer":false,"timestamp":"2025-09-10 16:00:25"}}
+Next question calculated: 3
+Question 3: No previous answer found
+[FRONTEND] Loading Q3: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "", selectedOption: "5min", isCustomAnswer: false
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+
+=== DEBUG submitAnswer for Q3 ===
+Answer received: '3 | Both'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Stress reduction","isCustomAnswer":false,"timestamp":"2025-09-10 15:58:13"},"2":{"questionNumber":2,"question":"How many minutes a week would you like to commit to your meditation practice?","answer":"5min","isCustomAnswer":false,"timestamp":"2025-09-10 16:00:25"},"3":{"questionNumber":3,"question":"How many rest days a week would you like to include?","answer":"3 | Both","isCustomAnswer":false,"timestamp":"2025-09-10 16:00:29"}}
+Next question calculated: 4
+Question 4: No previous answer found
+[FRONTEND] Loading Q4: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] Q4 - Using selected option: "App"
+
+=== DEBUG submitAnswer for Q4 ===
+Answer received: 'App'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Stress reduction","isCustomAnswer":false,"timestamp":"2025-09-10 15:58:13"},"2":{"questionNumber":2,"question":"How many minutes a week would you like to commit to your meditation practice?","answer":"5min","isCustomAnswer":false,"timestamp":"2025-09-10 16:00:25"},"3":{"questionNumber":3,"question":"How many rest days a week would you like to include?","answer":"3 | Both","isCustomAnswer":false,"timestamp":"2025-09-10 16:00:29"},"4":{"questionNumber":4,"question":"Where do you currently find your meditation content or support?","answer":"App","isCustomAnswer":false,"timestamp":"2025-09-10 16:00:31"}}
+Next question calculated: 5
+Question 5: No previous answer found
+[FRONTEND] Loading Q5: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "", selectedOption: "App", isCustomAnswer: false
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] Q5 - Using selected option: "Sufi"
+
+=== DEBUG submitAnswer for Q5 ===
+Answer received: 'Sufi'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Stress reduction","isCustomAnswer":false,"timestamp":"2025-09-10 15:58:13"},"2":{"questionNumber":2,"question":"How many minutes a week would you like to commit to your meditation practice?","answer":"5min","isCustomAnswer":false,"timestamp":"2025-09-10 16:00:25"},"3":{"questionNumber":3,"question":"How many rest days a week would you like to include?","answer":"3 | Both","isCustomAnswer":false,"timestamp":"2025-09-10 16:00:29"},"4":{"questionNumber":4,"question":"Where do you currently find your meditation content or support?","answer":"App","isCustomAnswer":false,"timestamp":"2025-09-10 16:00:31"},"5":{"questionNumber":5,"question":"Do you have a preferred tradition or type of meditation?","answer":"Sufi","isCustomAnswer":false,"timestamp":"2025-09-10 16:00:34"}}
+Next question calculated: 6
+Question 6: No previous answer found
+[FRONTEND] Loading Q6: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "", selectedOption: "Sufi", isCustomAnswer: false
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] Q6 - Using selected option: "Beginner"
+
+=== DEBUG submitAnswer for Q6 ===
+Answer received: 'Beginner'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Stress reduction","isCustomAnswer":false,"timestamp":"2025-09-10 15:58:13"},"2":{"questionNumber":2,"question":"How many minutes a week would you like to commit to your meditation practice?","answer":"5min","isCustomAnswer":false,"timestamp":"2025-09-10 16:00:25"},"3":{"questionNumber":3,"question":"How many rest days a week would you like to include?","answer":"3 | Both","isCustomAnswer":false,"timestamp":"2025-09-10 16:00:29"},"4":{"questionNumber":4,"question":"Where do you currently find your meditation content or support?","answer":"App","isCustomAnswer":false,"timestamp":"2025-09-10 16:00:31"},"5":{"questionNumber":5,"question":"Do you have a preferred tradition or type of meditation?","answer":"Sufi","isCustomAnswer":false,"timestamp":"2025-09-10 16:00:34"},"6":{"questionNumber":6,"question":"How comfortable are you with meditation techniques or practices?","answer":"Beginner","isCustomAnswer":false,"timestamp":"2025-09-10 16:00:36"}}
+Should show Q6.5? NO
+Next question calculated: 7
+Question 7: No previous answer found
+[FRONTEND] Loading Q7: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "", selectedOption: "Beginner", isCustomAnswer: false
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] Q7 - Using selected option: "Finding time"
+
+=== DEBUG submitAnswer for Q7 ===
+Answer received: 'Finding time'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Stress reduction","isCustomAnswer":false,"timestamp":"2025-09-10 15:58:13"},"2":{"questionNumber":2,"question":"How many minutes a week would you like to commit to your meditation practice?","answer":"5min","isCustomAnswer":false,"timestamp":"2025-09-10 16:00:25"},"3":{"questionNumber":3,"question":"How many rest days a week would you like to include?","answer":"3 | Both","isCustomAnswer":false,"timestamp":"2025-09-10 16:00:29"},"4":{"questionNumber":4,"question":"Where do you currently find your meditation content or support?","answer":"App","isCustomAnswer":false,"timestamp":"2025-09-10 16:00:31"},"5":{"questionNumber":5,"question":"Do you have a preferred tradition or type of meditation?","answer":"Sufi","isCustomAnswer":false,"timestamp":"2025-09-10 16:00:34"},"6":{"questionNumber":6,"question":"How comfortable are you with meditation techniques or practices?","answer":"Beginner","isCustomAnswer":false,"timestamp":"2025-09-10 16:00:36"},"7":{"questionNumber":7,"question":"What specific challenges do you face when trying to meditate?","answer":"Finding time","isCustomAnswer":false,"timestamp":"2025-09-10 16:00:45"}}
+Next question calculated: complete
+
+=== /plan entered ===
+plan_exists=yes
+questionnaire_complete=yes
+ai_chat_complete=no
+legacy_complete=no
+answers_count=7
+answer_keys=1,2,3,4,5,6,7
+rendering=plan_view
+about_to_render_with_plan=yes
+renderTemplate_called_with=plan
+variables_extracted=yes
+
+=== PLAN TEMPLATE DEBUG ===
+plan_isset=yes
+plan_is_null=no
+plan_title=Tranquil Beginnings: A Sufi-Inspired Journey to Stress Relief
+plan_class=SentientCoach\Models\MeditationPlan
+template_included_successfully=yes
+content_length=15842
+template_rendered_successfully=yes
+template_content_length=15842
+renderTemplate_called_with=landing
+variables_extracted=yes
+template_included_successfully=yes
+content_length=4853
+renderTemplate_called_with=ai-chat
+variables_extracted=yes
+template_included_successfully=yes
+content_length=8851
+renderTemplate_called_with=landing
+variables_extracted=yes
+template_included_successfully=yes
+content_length=4853
+renderTemplate_called_with=questionnaire
+variables_extracted=yes
+template_included_successfully=yes
+content_length=9324
+Question 1: No previous answer found
+[FRONTEND] Loading Q1: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "undefined", selectedOption: "null", isCustomAnswer: undefined
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+renderTemplate_called_with=landing
+variables_extracted=yes
+template_included_successfully=yes
+content_length=4853
+renderTemplate_called_with=ai-chat
+variables_extracted=yes
+template_included_successfully=yes
+content_length=8851
+renderTemplate_called_with=landing
+variables_extracted=yes
+template_included_successfully=yes
+content_length=4853
+renderTemplate_called_with=landing
+variables_extracted=yes
+template_included_successfully=yes
+content_length=4853
+renderTemplate_called_with=landing
+variables_extracted=yes
+template_included_successfully=yes
+content_length=4853
+renderTemplate_called_with=ai-chat
+variables_extracted=yes
+template_included_successfully=yes
+content_length=8851
+renderTemplate_called_with=landing
+variables_extracted=yes
+template_included_successfully=yes
+content_length=4853
+renderTemplate_called_with=landing
+variables_extracted=yes
+template_included_successfully=yes
+content_length=4853
+renderTemplate_called_with=ai-chat
+variables_extracted=yes
+template_included_successfully=yes
+content_length=8851
+renderTemplate_called_with=landing
+variables_extracted=yes
+template_included_successfully=yes
+content_length=4853
+renderTemplate_called_with=landing
+variables_extracted=yes
+template_included_successfully=yes
+content_length=4853
+renderTemplate_called_with=questionnaire
+variables_extracted=yes
+template_included_successfully=yes
+content_length=9324
+Question 1: No previous answer found
+[FRONTEND] Loading Q1: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "undefined", selectedOption: "null", isCustomAnswer: undefined
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] Q1 - Using selected option: "Stress reduction"
+
+=== DEBUG submitAnswer for Q1 ===
+Answer received: 'Stress reduction'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Stress reduction","isCustomAnswer":false,"timestamp":"2025-09-10 18:00:18"}}
+Next question calculated: 2
+Question 2: No previous answer found
+[FRONTEND] Loading Q2: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "", selectedOption: "Stress reduction", isCustomAnswer: false
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] Q2 - Using selected option: "15min"
+
+=== DEBUG submitAnswer for Q2 ===
+Answer received: '15min'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Stress reduction","isCustomAnswer":false,"timestamp":"2025-09-10 18:00:18"},"2":{"questionNumber":2,"question":"How many minutes a week would you like to commit to your meditation practice?","answer":"15min","isCustomAnswer":false,"timestamp":"2025-09-10 18:00:21"}}
+Next question calculated: 3
+Question 3: No previous answer found
+[FRONTEND] Loading Q3: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "", selectedOption: "15min", isCustomAnswer: false
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] Q3 - Using selected option: "4"
+
+=== DEBUG submitAnswer for Q3 ===
+Answer received: '4'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Stress reduction","isCustomAnswer":false,"timestamp":"2025-09-10 18:00:18"},"2":{"questionNumber":2,"question":"How many minutes a week would you like to commit to your meditation practice?","answer":"15min","isCustomAnswer":false,"timestamp":"2025-09-10 18:00:21"},"3":{"questionNumber":3,"question":"How many rest days a week would you like to include?","answer":"4","isCustomAnswer":false,"timestamp":"2025-09-10 18:00:25"}}
+Next question calculated: 4
+Question 4: No previous answer found
+[FRONTEND] Loading Q4: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "", selectedOption: "4", isCustomAnswer: false
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] Q4 - Using selected option: "Both"
+
+=== DEBUG submitAnswer for Q4 ===
+Answer received: 'Both'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Stress reduction","isCustomAnswer":false,"timestamp":"2025-09-10 18:00:18"},"2":{"questionNumber":2,"question":"How many minutes a week would you like to commit to your meditation practice?","answer":"15min","isCustomAnswer":false,"timestamp":"2025-09-10 18:00:21"},"3":{"questionNumber":3,"question":"How many rest days a week would you like to include?","answer":"4","isCustomAnswer":false,"timestamp":"2025-09-10 18:00:25"},"4":{"questionNumber":4,"question":"Do you prefer guided meditation, self-guided meditation, or both?","answer":"Both","isCustomAnswer":false,"timestamp":"2025-09-10 18:00:30"}}
+Next question calculated: 5
+Question 5: No previous answer found
+[FRONTEND] Loading Q5: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "", selectedOption: "Both", isCustomAnswer: false
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] Q5 - Using selected option: "App"
+
+=== DEBUG submitAnswer for Q5 ===
+Answer received: 'App'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Stress reduction","isCustomAnswer":false,"timestamp":"2025-09-10 18:00:18"},"2":{"questionNumber":2,"question":"How many minutes a week would you like to commit to your meditation practice?","answer":"15min","isCustomAnswer":false,"timestamp":"2025-09-10 18:00:21"},"3":{"questionNumber":3,"question":"How many rest days a week would you like to include?","answer":"4","isCustomAnswer":false,"timestamp":"2025-09-10 18:00:25"},"4":{"questionNumber":4,"question":"Do you prefer guided meditation, self-guided meditation, or both?","answer":"Both","isCustomAnswer":false,"timestamp":"2025-09-10 18:00:30"},"5":{"questionNumber":5,"question":"Where do you currently find your meditation content or support?","answer":"App","isCustomAnswer":false,"timestamp":"2025-09-10 18:00:33"}}
+Next question calculated: 6
+Question 6: No previous answer found
+[FRONTEND] Loading Q6: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "", selectedOption: "App", isCustomAnswer: false
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] Q6 - Using selected option: "Sufi"
+
+=== DEBUG submitAnswer for Q6 ===
+Answer received: 'Sufi'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Stress reduction","isCustomAnswer":false,"timestamp":"2025-09-10 18:00:18"},"2":{"questionNumber":2,"question":"How many minutes a week would you like to commit to your meditation practice?","answer":"15min","isCustomAnswer":false,"timestamp":"2025-09-10 18:00:21"},"3":{"questionNumber":3,"question":"How many rest days a week would you like to include?","answer":"4","isCustomAnswer":false,"timestamp":"2025-09-10 18:00:25"},"4":{"questionNumber":4,"question":"Do you prefer guided meditation, self-guided meditation, or both?","answer":"Both","isCustomAnswer":false,"timestamp":"2025-09-10 18:00:30"},"5":{"questionNumber":5,"question":"Where do you currently find your meditation content or support?","answer":"App","isCustomAnswer":false,"timestamp":"2025-09-10 18:00:33"},"6":{"questionNumber":6,"question":"Do you have a preferred tradition or type of meditation?","answer":"Sufi","isCustomAnswer":false,"timestamp":"2025-09-10 18:00:36"}}
+Next question calculated: 7
+Question 7: No previous answer found
+[FRONTEND] Loading Q7: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "", selectedOption: "Sufi", isCustomAnswer: false
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] Q7 - Using selected option: "Intermediate"
+
+=== DEBUG submitAnswer for Q7 ===
+Answer received: 'Intermediate'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Stress reduction","isCustomAnswer":false,"timestamp":"2025-09-10 18:00:18"},"2":{"questionNumber":2,"question":"How many minutes a week would you like to commit to your meditation practice?","answer":"15min","isCustomAnswer":false,"timestamp":"2025-09-10 18:00:21"},"3":{"questionNumber":3,"question":"How many rest days a week would you like to include?","answer":"4","isCustomAnswer":false,"timestamp":"2025-09-10 18:00:25"},"4":{"questionNumber":4,"question":"Do you prefer guided meditation, self-guided meditation, or both?","answer":"Both","isCustomAnswer":false,"timestamp":"2025-09-10 18:00:30"},"5":{"questionNumber":5,"question":"Where do you currently find your meditation content or support?","answer":"App","isCustomAnswer":false,"timestamp":"2025-09-10 18:00:33"},"6":{"questionNumber":6,"question":"Do you have a preferred tradition or type of meditation?","answer":"Sufi","isCustomAnswer":false,"timestamp":"2025-09-10 18:00:36"},"7":{"questionNumber":7,"question":"How comfortable are you with meditation techniques or practices?","answer":"Intermediate","isCustomAnswer":false,"timestamp":"2025-09-10 18:00:38"}}
+Should show Q7.5? YES
+Next question calculated: 7.5
+Question 7.5: No previous answer found
+[FRONTEND] Loading Q7.5: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "", selectedOption: "Intermediate", isCustomAnswer: false
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: true
+Question 7: Found previous answer: Intermediate
+[FRONTEND] Loading Q7: previousAnswer = Intermediate
+[FRONTEND] Before displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: true
+[FRONTEND] restoreSingleSelectAnswer called with: "Intermediate"
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "Intermediate", isCustomAnswer: false
+[FRONTEND] Q7 - Using selected option: "Beginner"
+
+=== DEBUG submitAnswer for Q7 ===
+Answer received: 'Beginner'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Stress reduction","isCustomAnswer":false,"timestamp":"2025-09-10 18:00:18"},"2":{"questionNumber":2,"question":"How many minutes a week would you like to commit to your meditation practice?","answer":"15min","isCustomAnswer":false,"timestamp":"2025-09-10 18:00:21"},"3":{"questionNumber":3,"question":"How many rest days a week would you like to include?","answer":"4","isCustomAnswer":false,"timestamp":"2025-09-10 18:00:25"},"4":{"questionNumber":4,"question":"Do you prefer guided meditation, self-guided meditation, or both?","answer":"Both","isCustomAnswer":false,"timestamp":"2025-09-10 18:00:30"},"5":{"questionNumber":5,"question":"Where do you currently find your meditation content or support?","answer":"App","isCustomAnswer":false,"timestamp":"2025-09-10 18:00:33"},"6":{"questionNumber":6,"question":"Do you have a preferred tradition or type of meditation?","answer":"Sufi","isCustomAnswer":false,"timestamp":"2025-09-10 18:00:36"},"7":{"questionNumber":7,"question":"How comfortable are you with meditation techniques or practices?","answer":"Beginner","isCustomAnswer":false,"timestamp":"2025-09-10 18:00:41"}}
+Should show Q7.5? NO
+Next question calculated: 8
+Question 8: No previous answer found
+[FRONTEND] Loading Q8: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "", selectedOption: "Beginner", isCustomAnswer: false
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+renderTemplate_called_with=questionnaire
+variables_extracted=yes
+template_included_successfully=yes
+content_length=9324
+Question 8: No previous answer found
+[FRONTEND] Loading Q8: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "undefined", selectedOption: "null", isCustomAnswer: undefined
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+renderTemplate_called_with=questionnaire
+variables_extracted=yes
+template_included_successfully=yes
+content_length=9324
+Question 8: No previous answer found
+[FRONTEND] Loading Q8: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "undefined", selectedOption: "null", isCustomAnswer: undefined
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] Q8 - Using selected option: "Difficulty focusing"
+
+=== DEBUG submitAnswer for Q8 ===
+Answer received: 'Difficulty focusing'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Stress reduction","isCustomAnswer":false,"timestamp":"2025-09-10 18:00:18"},"2":{"questionNumber":2,"question":"How many minutes a week would you like to commit to your meditation practice?","answer":"15min","isCustomAnswer":false,"timestamp":"2025-09-10 18:00:21"},"3":{"questionNumber":3,"question":"How many rest days a week would you like to include?","answer":"4","isCustomAnswer":false,"timestamp":"2025-09-10 18:00:25"},"4":{"questionNumber":4,"question":"Do you prefer guided meditation, self-guided meditation, or both?","answer":"Both","isCustomAnswer":false,"timestamp":"2025-09-10 18:00:30"},"5":{"questionNumber":5,"question":"Where do you currently find your meditation content or support?","answer":"App","isCustomAnswer":false,"timestamp":"2025-09-10 18:00:33"},"6":{"questionNumber":6,"question":"Do you have a preferred tradition or type of meditation?","answer":"Sufi","isCustomAnswer":false,"timestamp":"2025-09-10 18:00:36"},"7":{"questionNumber":7,"question":"How comfortable are you with meditation techniques or practices?","answer":"Beginner","isCustomAnswer":false,"timestamp":"2025-09-10 18:00:41"},"8":{"questionNumber":8,"question":"What specific challenges do you face when trying to meditate?","answer":"Difficulty focusing","isCustomAnswer":false,"timestamp":"2025-09-10 18:01:39"}}
+Next question calculated: complete
+
+=== /plan entered ===
+plan_exists=yes
+questionnaire_complete=yes
+ai_chat_complete=no
+legacy_complete=no
+answers_count=8
+answer_keys=1,2,3,4,5,6,7,8
+rendering=plan_view
+about_to_render_with_plan=yes
+renderTemplate_called_with=plan
+variables_extracted=yes
+
+=== PLAN TEMPLATE DEBUG ===
+plan_isset=yes
+plan_is_null=no
+plan_title=Gentle Stress Relief: A Beginner's Sufi Meditation Journey
+plan_class=SentientCoach\Models\MeditationPlan
+template_included_successfully=yes
+content_length=15844
+template_rendered_successfully=yes
+template_content_length=15844
+renderTemplate_called_with=landing
+variables_extracted=yes
+template_included_successfully=yes
+content_length=4853
+renderTemplate_called_with=questionnaire
+variables_extracted=yes
+template_included_successfully=yes
+content_length=9324
+renderTemplate_called_with=landing
+variables_extracted=yes
+template_included_successfully=yes
+content_length=4853
+renderTemplate_called_with=questionnaire
+variables_extracted=yes
+template_included_successfully=yes
+content_length=9324
+Question 1: No previous answer found
+[FRONTEND] Loading Q1: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "undefined", selectedOption: "null", isCustomAnswer: undefined
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+renderTemplate_called_with=landing
+variables_extracted=yes
+template_included_successfully=yes
+content_length=4853
+renderTemplate_called_with=questionnaire
+variables_extracted=yes
+template_included_successfully=yes
+content_length=9324
+Question 1: No previous answer found
+[FRONTEND] Loading Q1: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "undefined", selectedOption: "null", isCustomAnswer: undefined
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] Q1 - Using selected option: "Stress reduction"
+
+=== DEBUG submitAnswer for Q1 ===
+Answer received: 'Stress reduction'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Stress reduction","isCustomAnswer":false,"timestamp":"2025-09-10 18:11:44"}}
+Next question calculated: 2
+Question 2: No previous answer found
+[FRONTEND] Loading Q2: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "", selectedOption: "Stress reduction", isCustomAnswer: false
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] Q2 - Using selected option: "15min"
+
+=== DEBUG submitAnswer for Q2 ===
+Answer received: '15min'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Stress reduction","isCustomAnswer":false,"timestamp":"2025-09-10 18:11:44"},"2":{"questionNumber":2,"question":"How many minutes a week would you like to commit to your meditation practice?","answer":"15min","isCustomAnswer":false,"timestamp":"2025-09-10 18:11:47"}}
+Next question calculated: 3
+Question 3: No previous answer found
+[FRONTEND] Loading Q3: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "", selectedOption: "15min", isCustomAnswer: false
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] Q3 - Using selected option: "3"
+
+=== DEBUG submitAnswer for Q3 ===
+Answer received: '3'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Stress reduction","isCustomAnswer":false,"timestamp":"2025-09-10 18:11:44"},"2":{"questionNumber":2,"question":"How many minutes a week would you like to commit to your meditation practice?","answer":"15min","isCustomAnswer":false,"timestamp":"2025-09-10 18:11:47"},"3":{"questionNumber":3,"question":"How many rest days a week would you like to include?","answer":"3","isCustomAnswer":false,"timestamp":"2025-09-10 18:11:51"}}
+Next question calculated: 4
+Question 4: No previous answer found
+[FRONTEND] Loading Q4: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "", selectedOption: "3", isCustomAnswer: false
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] Q4 - Using selected option: "Both"
+
+=== DEBUG submitAnswer for Q4 ===
+Answer received: 'Both'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Stress reduction","isCustomAnswer":false,"timestamp":"2025-09-10 18:11:44"},"2":{"questionNumber":2,"question":"How many minutes a week would you like to commit to your meditation practice?","answer":"15min","isCustomAnswer":false,"timestamp":"2025-09-10 18:11:47"},"3":{"questionNumber":3,"question":"How many rest days a week would you like to include?","answer":"3","isCustomAnswer":false,"timestamp":"2025-09-10 18:11:51"},"4":{"questionNumber":4,"question":"Do you prefer guided meditation, self-guided meditation, or both?","answer":"Both","isCustomAnswer":false,"timestamp":"2025-09-10 18:11:54"}}
+Next question calculated: 5
+Question 5: No previous answer found
+[FRONTEND] Loading Q5: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "", selectedOption: "Both", isCustomAnswer: false
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] Q5 - Using selected option: "App"
+
+=== DEBUG submitAnswer for Q5 ===
+Answer received: 'App'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Stress reduction","isCustomAnswer":false,"timestamp":"2025-09-10 18:11:44"},"2":{"questionNumber":2,"question":"How many minutes a week would you like to commit to your meditation practice?","answer":"15min","isCustomAnswer":false,"timestamp":"2025-09-10 18:11:47"},"3":{"questionNumber":3,"question":"How many rest days a week would you like to include?","answer":"3","isCustomAnswer":false,"timestamp":"2025-09-10 18:11:51"},"4":{"questionNumber":4,"question":"Do you prefer guided meditation, self-guided meditation, or both?","answer":"Both","isCustomAnswer":false,"timestamp":"2025-09-10 18:11:54"},"5":{"questionNumber":5,"question":"Where do you currently find your meditation content or support?","answer":"App","isCustomAnswer":false,"timestamp":"2025-09-10 18:11:56"}}
+Next question calculated: 6
+Question 6: No previous answer found
+[FRONTEND] Loading Q6: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "", selectedOption: "App", isCustomAnswer: false
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] Q6 - Using selected option: "Sufi"
+
+=== DEBUG submitAnswer for Q6 ===
+Answer received: 'Sufi'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Stress reduction","isCustomAnswer":false,"timestamp":"2025-09-10 18:11:44"},"2":{"questionNumber":2,"question":"How many minutes a week would you like to commit to your meditation practice?","answer":"15min","isCustomAnswer":false,"timestamp":"2025-09-10 18:11:47"},"3":{"questionNumber":3,"question":"How many rest days a week would you like to include?","answer":"3","isCustomAnswer":false,"timestamp":"2025-09-10 18:11:51"},"4":{"questionNumber":4,"question":"Do you prefer guided meditation, self-guided meditation, or both?","answer":"Both","isCustomAnswer":false,"timestamp":"2025-09-10 18:11:54"},"5":{"questionNumber":5,"question":"Where do you currently find your meditation content or support?","answer":"App","isCustomAnswer":false,"timestamp":"2025-09-10 18:11:56"},"6":{"questionNumber":6,"question":"Do you have a preferred tradition or type of meditation?","answer":"Sufi","isCustomAnswer":false,"timestamp":"2025-09-10 18:11:59"}}
+Next question calculated: 7
+Question 7: No previous answer found
+[FRONTEND] Loading Q7: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "", selectedOption: "Sufi", isCustomAnswer: false
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] Q7 - Using selected option: "Beginner"
+
+=== DEBUG submitAnswer for Q7 ===
+Answer received: 'Beginner'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Stress reduction","isCustomAnswer":false,"timestamp":"2025-09-10 18:11:44"},"2":{"questionNumber":2,"question":"How many minutes a week would you like to commit to your meditation practice?","answer":"15min","isCustomAnswer":false,"timestamp":"2025-09-10 18:11:47"},"3":{"questionNumber":3,"question":"How many rest days a week would you like to include?","answer":"3","isCustomAnswer":false,"timestamp":"2025-09-10 18:11:51"},"4":{"questionNumber":4,"question":"Do you prefer guided meditation, self-guided meditation, or both?","answer":"Both","isCustomAnswer":false,"timestamp":"2025-09-10 18:11:54"},"5":{"questionNumber":5,"question":"Where do you currently find your meditation content or support?","answer":"App","isCustomAnswer":false,"timestamp":"2025-09-10 18:11:56"},"6":{"questionNumber":6,"question":"Do you have a preferred tradition or type of meditation?","answer":"Sufi","isCustomAnswer":false,"timestamp":"2025-09-10 18:11:59"},"7":{"questionNumber":7,"question":"How comfortable are you with meditation techniques or practices?","answer":"Beginner","isCustomAnswer":false,"timestamp":"2025-09-10 18:12:01"}}
+Should show Q7.5? NO
+Next question calculated: 8
+Question 8: No previous answer found
+[FRONTEND] Loading Q8: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "", selectedOption: "Beginner", isCustomAnswer: false
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] Q8 - Using selected option: "Finding time"
+
+=== DEBUG submitAnswer for Q8 ===
+Answer received: 'Finding time'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Stress reduction","isCustomAnswer":false,"timestamp":"2025-09-10 18:11:44"},"2":{"questionNumber":2,"question":"How many minutes a week would you like to commit to your meditation practice?","answer":"15min","isCustomAnswer":false,"timestamp":"2025-09-10 18:11:47"},"3":{"questionNumber":3,"question":"How many rest days a week would you like to include?","answer":"3","isCustomAnswer":false,"timestamp":"2025-09-10 18:11:51"},"4":{"questionNumber":4,"question":"Do you prefer guided meditation, self-guided meditation, or both?","answer":"Both","isCustomAnswer":false,"timestamp":"2025-09-10 18:11:54"},"5":{"questionNumber":5,"question":"Where do you currently find your meditation content or support?","answer":"App","isCustomAnswer":false,"timestamp":"2025-09-10 18:11:56"},"6":{"questionNumber":6,"question":"Do you have a preferred tradition or type of meditation?","answer":"Sufi","isCustomAnswer":false,"timestamp":"2025-09-10 18:11:59"},"7":{"questionNumber":7,"question":"How comfortable are you with meditation techniques or practices?","answer":"Beginner","isCustomAnswer":false,"timestamp":"2025-09-10 18:12:01"},"8":{"questionNumber":8,"question":"What specific challenges do you face when trying to meditate?","answer":"Finding time","isCustomAnswer":false,"timestamp":"2025-09-10 18:12:03"}}
+Next question calculated: complete
+
+=== /plan entered ===
+plan_exists=yes
+questionnaire_complete=yes
+ai_chat_complete=no
+legacy_complete=no
+answers_count=8
+answer_keys=1,2,3,4,5,6,7,8
+rendering=plan_view
+about_to_render_with_plan=yes
+renderTemplate_called_with=plan
+variables_extracted=yes
+
+=== PLAN TEMPLATE DEBUG ===
+plan_isset=yes
+plan_is_null=no
+plan_title=Serenity in Simplicity: A Stress-Reduction Journey
+plan_class=SentientCoach\Models\MeditationPlan
+template_included_successfully=yes
+content_length=15831
+template_rendered_successfully=yes
+template_content_length=15831
+
+=== /plan entered ===
+plan_exists=yes
+questionnaire_complete=yes
+ai_chat_complete=no
+legacy_complete=no
+answers_count=8
+answer_keys=1,2,3,4,5,6,7,8
+rendering=plan_view
+about_to_render_with_plan=yes
+renderTemplate_called_with=plan
+variables_extracted=yes
+
+=== PLAN TEMPLATE DEBUG ===
+plan_isset=yes
+plan_is_null=no
+plan_title=Serenity in Simplicity: A Stress-Reduction Journey
+plan_class=SentientCoach\Models\MeditationPlan
+template_included_successfully=yes
+content_length=15831
+template_rendered_successfully=yes
+template_content_length=15831
+renderTemplate_called_with=landing
+variables_extracted=yes
+template_included_successfully=yes
+content_length=4853
+renderTemplate_called_with=questionnaire
+variables_extracted=yes
+template_included_successfully=yes
+content_length=9324
+Question 1: No previous answer found
+[FRONTEND] Loading Q1: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "undefined", selectedOption: "null", isCustomAnswer: undefined
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] Q1 - Using selected option: "Focus"
+
+=== DEBUG submitAnswer for Q1 ===
+Answer received: 'Focus'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Focus","isCustomAnswer":false,"timestamp":"2025-09-10 18:34:59"}}
+Next question calculated: 2
+Question 2: No previous answer found
+[FRONTEND] Loading Q2: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "", selectedOption: "Focus", isCustomAnswer: false
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] Q2 - Using selected option: "5min"
+
+=== DEBUG submitAnswer for Q2 ===
+Answer received: '5min'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Focus","isCustomAnswer":false,"timestamp":"2025-09-10 18:34:59"},"2":{"questionNumber":2,"question":"How many minutes a week would you like to commit to your meditation practice?","answer":"5min","isCustomAnswer":false,"timestamp":"2025-09-10 18:35:01"}}
+Next question calculated: 3
+Question 3: No previous answer found
+[FRONTEND] Loading Q3: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "", selectedOption: "5min", isCustomAnswer: false
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] Q3 - Using selected option: "3"
+
+=== DEBUG submitAnswer for Q3 ===
+Answer received: '3'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Focus","isCustomAnswer":false,"timestamp":"2025-09-10 18:34:59"},"2":{"questionNumber":2,"question":"How many minutes a week would you like to commit to your meditation practice?","answer":"5min","isCustomAnswer":false,"timestamp":"2025-09-10 18:35:01"},"3":{"questionNumber":3,"question":"How many rest days a week would you like to include?","answer":"3","isCustomAnswer":false,"timestamp":"2025-09-10 18:35:17"}}
+Next question calculated: 4
+Question 4: No previous answer found
+[FRONTEND] Loading Q4: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "", selectedOption: "3", isCustomAnswer: false
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] Q4 - Using selected option: "Both"
+
+=== DEBUG submitAnswer for Q4 ===
+Answer received: 'Both'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Focus","isCustomAnswer":false,"timestamp":"2025-09-10 18:34:59"},"2":{"questionNumber":2,"question":"How many minutes a week would you like to commit to your meditation practice?","answer":"5min","isCustomAnswer":false,"timestamp":"2025-09-10 18:35:01"},"3":{"questionNumber":3,"question":"How many rest days a week would you like to include?","answer":"3","isCustomAnswer":false,"timestamp":"2025-09-10 18:35:17"},"4":{"questionNumber":4,"question":"Do you prefer guided meditation, self-guided meditation, or both?","answer":"Both","isCustomAnswer":false,"timestamp":"2025-09-10 18:35:21"}}
+Next question calculated: 5
+Question 5: No previous answer found
+[FRONTEND] Loading Q5: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "", selectedOption: "Both", isCustomAnswer: false
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] Q5 - Using selected option: "App"
+
+=== DEBUG submitAnswer for Q5 ===
+Answer received: 'App'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Focus","isCustomAnswer":false,"timestamp":"2025-09-10 18:34:59"},"2":{"questionNumber":2,"question":"How many minutes a week would you like to commit to your meditation practice?","answer":"5min","isCustomAnswer":false,"timestamp":"2025-09-10 18:35:01"},"3":{"questionNumber":3,"question":"How many rest days a week would you like to include?","answer":"3","isCustomAnswer":false,"timestamp":"2025-09-10 18:35:17"},"4":{"questionNumber":4,"question":"Do you prefer guided meditation, self-guided meditation, or both?","answer":"Both","isCustomAnswer":false,"timestamp":"2025-09-10 18:35:21"},"5":{"questionNumber":5,"question":"Where do you currently find your meditation content or support?","answer":"App","isCustomAnswer":false,"timestamp":"2025-09-10 18:35:23"}}
+Next question calculated: 6
+Question 6: No previous answer found
+[FRONTEND] Loading Q6: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "", selectedOption: "App", isCustomAnswer: false
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] Q6 - Using selected option: "Sufi"
+
+=== DEBUG submitAnswer for Q6 ===
+Answer received: 'Sufi'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Focus","isCustomAnswer":false,"timestamp":"2025-09-10 18:34:59"},"2":{"questionNumber":2,"question":"How many minutes a week would you like to commit to your meditation practice?","answer":"5min","isCustomAnswer":false,"timestamp":"2025-09-10 18:35:01"},"3":{"questionNumber":3,"question":"How many rest days a week would you like to include?","answer":"3","isCustomAnswer":false,"timestamp":"2025-09-10 18:35:17"},"4":{"questionNumber":4,"question":"Do you prefer guided meditation, self-guided meditation, or both?","answer":"Both","isCustomAnswer":false,"timestamp":"2025-09-10 18:35:21"},"5":{"questionNumber":5,"question":"Where do you currently find your meditation content or support?","answer":"App","isCustomAnswer":false,"timestamp":"2025-09-10 18:35:23"},"6":{"questionNumber":6,"question":"Do you have a preferred tradition or type of meditation?","answer":"Sufi","isCustomAnswer":false,"timestamp":"2025-09-10 18:35:26"}}
+Next question calculated: 7
+Question 7: No previous answer found
+[FRONTEND] Loading Q7: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "", selectedOption: "Sufi", isCustomAnswer: false
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] Q7 - Using selected option: "Beginner"
+
+=== DEBUG submitAnswer for Q7 ===
+Answer received: 'Beginner'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Focus","isCustomAnswer":false,"timestamp":"2025-09-10 18:34:59"},"2":{"questionNumber":2,"question":"How many minutes a week would you like to commit to your meditation practice?","answer":"5min","isCustomAnswer":false,"timestamp":"2025-09-10 18:35:01"},"3":{"questionNumber":3,"question":"How many rest days a week would you like to include?","answer":"3","isCustomAnswer":false,"timestamp":"2025-09-10 18:35:17"},"4":{"questionNumber":4,"question":"Do you prefer guided meditation, self-guided meditation, or both?","answer":"Both","isCustomAnswer":false,"timestamp":"2025-09-10 18:35:21"},"5":{"questionNumber":5,"question":"Where do you currently find your meditation content or support?","answer":"App","isCustomAnswer":false,"timestamp":"2025-09-10 18:35:23"},"6":{"questionNumber":6,"question":"Do you have a preferred tradition or type of meditation?","answer":"Sufi","isCustomAnswer":false,"timestamp":"2025-09-10 18:35:26"},"7":{"questionNumber":7,"question":"How comfortable are you with meditation techniques or practices?","answer":"Beginner","isCustomAnswer":false,"timestamp":"2025-09-10 18:35:27"}}
+Should show Q7.5? NO
+Next question calculated: 8
+Question 8: No previous answer found
+[FRONTEND] Loading Q8: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "", selectedOption: "Beginner", isCustomAnswer: false
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] Q8 - Using selected option: "Difficulty focusing"
+
+=== DEBUG submitAnswer for Q8 ===
+Answer received: 'Difficulty focusing'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Focus","isCustomAnswer":false,"timestamp":"2025-09-10 18:34:59"},"2":{"questionNumber":2,"question":"How many minutes a week would you like to commit to your meditation practice?","answer":"5min","isCustomAnswer":false,"timestamp":"2025-09-10 18:35:01"},"3":{"questionNumber":3,"question":"How many rest days a week would you like to include?","answer":"3","isCustomAnswer":false,"timestamp":"2025-09-10 18:35:17"},"4":{"questionNumber":4,"question":"Do you prefer guided meditation, self-guided meditation, or both?","answer":"Both","isCustomAnswer":false,"timestamp":"2025-09-10 18:35:21"},"5":{"questionNumber":5,"question":"Where do you currently find your meditation content or support?","answer":"App","isCustomAnswer":false,"timestamp":"2025-09-10 18:35:23"},"6":{"questionNumber":6,"question":"Do you have a preferred tradition or type of meditation?","answer":"Sufi","isCustomAnswer":false,"timestamp":"2025-09-10 18:35:26"},"7":{"questionNumber":7,"question":"How comfortable are you with meditation techniques or practices?","answer":"Beginner","isCustomAnswer":false,"timestamp":"2025-09-10 18:35:27"},"8":{"questionNumber":8,"question":"What specific challenges do you face when trying to meditate?","answer":"Difficulty focusing","isCustomAnswer":false,"timestamp":"2025-09-10 18:35:29"}}
+Next question calculated: complete
+
+=== /plan entered ===
+plan_exists=yes
+questionnaire_complete=yes
+ai_chat_complete=no
+legacy_complete=no
+answers_count=8
+answer_keys=1,2,3,4,5,6,7,8
+rendering=plan_view
+about_to_render_with_plan=yes
+renderTemplate_called_with=plan
+variables_extracted=yes
+
+=== PLAN TEMPLATE DEBUG ===
+plan_isset=yes
+plan_is_null=no
+plan_title=Cultivating Focus: A Sufi-Inspired Beginner's Journey
+plan_class=SentientCoach\Models\MeditationPlan
+template_included_successfully=yes
+content_length=15839
+template_rendered_successfully=yes
+template_content_length=15839
+
+=== /plan entered ===
+plan_exists=yes
+questionnaire_complete=yes
+ai_chat_complete=no
+legacy_complete=no
+answers_count=8
+answer_keys=1,2,3,4,5,6,7,8
+rendering=plan_view
+about_to_render_with_plan=yes
+renderTemplate_called_with=plan
+variables_extracted=yes
+
+=== PLAN TEMPLATE DEBUG ===
+plan_isset=yes
+plan_is_null=no
+plan_title=Cultivating Focus: A Sufi-Inspired Beginner's Journey
+plan_class=SentientCoach\Models\MeditationPlan
+template_included_successfully=yes
+content_length=15839
+template_rendered_successfully=yes
+template_content_length=15839
+renderTemplate_called_with=landing
+variables_extracted=yes
+template_included_successfully=yes
+content_length=4853
+renderTemplate_called_with=questionnaire
+variables_extracted=yes
+template_included_successfully=yes
+content_length=9324
+Question 1: No previous answer found
+[FRONTEND] Loading Q1: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "undefined", selectedOption: "null", isCustomAnswer: undefined
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] Q1 - Using selected option: "Stress reduction"
+
+=== DEBUG submitAnswer for Q1 ===
+Answer received: 'Stress reduction'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Stress reduction","isCustomAnswer":false,"timestamp":"2025-10-06 07:36:37"}}
+Next question calculated: 2
+Question 2: No previous answer found
+[FRONTEND] Loading Q2: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "", selectedOption: "Stress reduction", isCustomAnswer: false
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] Q2 - Using selected option: "10 mins"
+
+=== DEBUG submitAnswer for Q2 ===
+Answer received: '10 mins'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Stress reduction","isCustomAnswer":false,"timestamp":"2025-10-06 07:36:37"},"2":{"questionNumber":2,"question":"How many minutes a week would you like to commit to your meditation practice?","answer":"10 mins","isCustomAnswer":false,"timestamp":"2025-10-06 07:36:39"}}
+Next question calculated: 3
+Question 3: No previous answer found
+[FRONTEND] Loading Q3: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "", selectedOption: "10 mins", isCustomAnswer: false
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] Q3 - Using selected option: "3"
+
+=== DEBUG submitAnswer for Q3 ===
+Answer received: '3'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Stress reduction","isCustomAnswer":false,"timestamp":"2025-10-06 07:36:37"},"2":{"questionNumber":2,"question":"How many minutes a week would you like to commit to your meditation practice?","answer":"10 mins","isCustomAnswer":false,"timestamp":"2025-10-06 07:36:39"},"3":{"questionNumber":3,"question":"How many rest days a week would you like to include?","answer":"3","isCustomAnswer":false,"timestamp":"2025-10-06 07:36:44"}}
+Next question calculated: 4
+Question 4: No previous answer found
+[FRONTEND] Loading Q4: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "", selectedOption: "3", isCustomAnswer: false
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] Q4 - Using selected option: "Self-guided meditation"
+
+=== DEBUG submitAnswer for Q4 ===
+Answer received: 'Self-guided meditation'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Stress reduction","isCustomAnswer":false,"timestamp":"2025-10-06 07:36:37"},"2":{"questionNumber":2,"question":"How many minutes a week would you like to commit to your meditation practice?","answer":"10 mins","isCustomAnswer":false,"timestamp":"2025-10-06 07:36:39"},"3":{"questionNumber":3,"question":"How many rest days a week would you like to include?","answer":"3","isCustomAnswer":false,"timestamp":"2025-10-06 07:36:44"},"4":{"questionNumber":4,"question":"Do you prefer guided meditation, self-guided meditation, or both?","answer":"Self-guided meditation","isCustomAnswer":false,"timestamp":"2025-10-06 07:36:46"}}
+Next question calculated: 5
+Question 5: No previous answer found
+[FRONTEND] Loading Q5: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "", selectedOption: "Self-guided meditation", isCustomAnswer: false
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+renderTemplate_called_with=landing
+variables_extracted=yes
+template_included_successfully=yes
+content_length=4853
+renderTemplate_called_with=ai-chat
+variables_extracted=yes
+template_included_successfully=yes
+content_length=8851
+renderTemplate_called_with=landing
+variables_extracted=yes
+template_included_successfully=yes
+content_length=4853
+renderTemplate_called_with=landing
+variables_extracted=yes
+template_included_successfully=yes
+content_length=4853
+renderTemplate_called_with=questionnaire
+variables_extracted=yes
+template_included_successfully=yes
+content_length=9324
+Question 1: No previous answer found
+[FRONTEND] Loading Q1: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "undefined", selectedOption: "null", isCustomAnswer: undefined
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] Q1 - Using selected option: "Stress reduction"
+
+=== DEBUG submitAnswer for Q1 ===
+Answer received: 'Stress reduction'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Stress reduction","isCustomAnswer":false,"timestamp":"2025-10-06 13:09:25"}}
+Next question calculated: 2
+Question 2: No previous answer found
+[FRONTEND] Loading Q2: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "", selectedOption: "Stress reduction", isCustomAnswer: false
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] Q2 - Using selected option: "5min"
+
+=== DEBUG submitAnswer for Q2 ===
+Answer received: '5min'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Stress reduction","isCustomAnswer":false,"timestamp":"2025-10-06 13:09:25"},"2":{"questionNumber":2,"question":"How many minutes a week would you like to commit to your meditation practice?","answer":"5min","isCustomAnswer":false,"timestamp":"2025-10-06 13:09:28"}}
+Next question calculated: 3
+Question 3: No previous answer found
+[FRONTEND] Loading Q3: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "", selectedOption: "5min", isCustomAnswer: false
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] Q3 - Using selected option: "3"
+
+=== DEBUG submitAnswer for Q3 ===
+Answer received: '3'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Stress reduction","isCustomAnswer":false,"timestamp":"2025-10-06 13:09:25"},"2":{"questionNumber":2,"question":"How many minutes a week would you like to commit to your meditation practice?","answer":"5min","isCustomAnswer":false,"timestamp":"2025-10-06 13:09:28"},"3":{"questionNumber":3,"question":"How many rest days a week would you like to include?","answer":"3","isCustomAnswer":false,"timestamp":"2025-10-06 13:09:30"}}
+Next question calculated: 4
+Question 4: No previous answer found
+[FRONTEND] Loading Q4: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "", selectedOption: "3", isCustomAnswer: false
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] Q4 - Using selected option: "Self-guided meditation"
+
+=== DEBUG submitAnswer for Q4 ===
+Answer received: 'Self-guided meditation'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Stress reduction","isCustomAnswer":false,"timestamp":"2025-10-06 13:09:25"},"2":{"questionNumber":2,"question":"How many minutes a week would you like to commit to your meditation practice?","answer":"5min","isCustomAnswer":false,"timestamp":"2025-10-06 13:09:28"},"3":{"questionNumber":3,"question":"How many rest days a week would you like to include?","answer":"3","isCustomAnswer":false,"timestamp":"2025-10-06 13:09:30"},"4":{"questionNumber":4,"question":"Do you prefer guided meditation, self-guided meditation, or both?","answer":"Self-guided meditation","isCustomAnswer":false,"timestamp":"2025-10-06 13:09:33"}}
+Next question calculated: 5
+Question 5: No previous answer found
+[FRONTEND] Loading Q5: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "", selectedOption: "Self-guided meditation", isCustomAnswer: false
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] Q5 - Using selected option: "App"
+
+=== DEBUG submitAnswer for Q5 ===
+Answer received: 'App'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Stress reduction","isCustomAnswer":false,"timestamp":"2025-10-06 13:09:25"},"2":{"questionNumber":2,"question":"How many minutes a week would you like to commit to your meditation practice?","answer":"5min","isCustomAnswer":false,"timestamp":"2025-10-06 13:09:28"},"3":{"questionNumber":3,"question":"How many rest days a week would you like to include?","answer":"3","isCustomAnswer":false,"timestamp":"2025-10-06 13:09:30"},"4":{"questionNumber":4,"question":"Do you prefer guided meditation, self-guided meditation, or both?","answer":"Self-guided meditation","isCustomAnswer":false,"timestamp":"2025-10-06 13:09:33"},"5":{"questionNumber":5,"question":"Where do you currently find your meditation content or support?","answer":"App","isCustomAnswer":false,"timestamp":"2025-10-06 13:09:36"}}
+Next question calculated: 6
+Question 6: No previous answer found
+[FRONTEND] Loading Q6: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "", selectedOption: "App", isCustomAnswer: false
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] Q6 - Using selected option: "Sufi"
+
+=== DEBUG submitAnswer for Q6 ===
+Answer received: 'Sufi'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Stress reduction","isCustomAnswer":false,"timestamp":"2025-10-06 13:09:25"},"2":{"questionNumber":2,"question":"How many minutes a week would you like to commit to your meditation practice?","answer":"5min","isCustomAnswer":false,"timestamp":"2025-10-06 13:09:28"},"3":{"questionNumber":3,"question":"How many rest days a week would you like to include?","answer":"3","isCustomAnswer":false,"timestamp":"2025-10-06 13:09:30"},"4":{"questionNumber":4,"question":"Do you prefer guided meditation, self-guided meditation, or both?","answer":"Self-guided meditation","isCustomAnswer":false,"timestamp":"2025-10-06 13:09:33"},"5":{"questionNumber":5,"question":"Where do you currently find your meditation content or support?","answer":"App","isCustomAnswer":false,"timestamp":"2025-10-06 13:09:36"},"6":{"questionNumber":6,"question":"Do you have a preferred tradition or type of meditation?","answer":"Sufi","isCustomAnswer":false,"timestamp":"2025-10-06 13:09:39"}}
+Next question calculated: 7
+Question 7: No previous answer found
+[FRONTEND] Loading Q7: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "", selectedOption: "Sufi", isCustomAnswer: false
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] Q7 - Using selected option: "Beginner"
+
+=== DEBUG submitAnswer for Q7 ===
+Answer received: 'Beginner'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Stress reduction","isCustomAnswer":false,"timestamp":"2025-10-06 13:09:25"},"2":{"questionNumber":2,"question":"How many minutes a week would you like to commit to your meditation practice?","answer":"5min","isCustomAnswer":false,"timestamp":"2025-10-06 13:09:28"},"3":{"questionNumber":3,"question":"How many rest days a week would you like to include?","answer":"3","isCustomAnswer":false,"timestamp":"2025-10-06 13:09:30"},"4":{"questionNumber":4,"question":"Do you prefer guided meditation, self-guided meditation, or both?","answer":"Self-guided meditation","isCustomAnswer":false,"timestamp":"2025-10-06 13:09:33"},"5":{"questionNumber":5,"question":"Where do you currently find your meditation content or support?","answer":"App","isCustomAnswer":false,"timestamp":"2025-10-06 13:09:36"},"6":{"questionNumber":6,"question":"Do you have a preferred tradition or type of meditation?","answer":"Sufi","isCustomAnswer":false,"timestamp":"2025-10-06 13:09:39"},"7":{"questionNumber":7,"question":"How comfortable are you with meditation techniques or practices?","answer":"Beginner","isCustomAnswer":false,"timestamp":"2025-10-06 13:09:42"}}
+Should show Q7.5? NO
+Next question calculated: 8
+Question 8: No previous answer found
+[FRONTEND] Loading Q8: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "", selectedOption: "Beginner", isCustomAnswer: false
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+[FRONTEND] Q8 - Using selected option: "Finding time"
+
+=== DEBUG submitAnswer for Q8 ===
+Answer received: 'Finding time'
+Session after storing answer: {"1":{"questionNumber":1,"question":"What is your primary goal for starting a meditation practice?","answer":"Stress reduction","isCustomAnswer":false,"timestamp":"2025-10-06 13:09:25"},"2":{"questionNumber":2,"question":"How many minutes a week would you like to commit to your meditation practice?","answer":"5min","isCustomAnswer":false,"timestamp":"2025-10-06 13:09:28"},"3":{"questionNumber":3,"question":"How many rest days a week would you like to include?","answer":"3","isCustomAnswer":false,"timestamp":"2025-10-06 13:09:30"},"4":{"questionNumber":4,"question":"Do you prefer guided meditation, self-guided meditation, or both?","answer":"Self-guided meditation","isCustomAnswer":false,"timestamp":"2025-10-06 13:09:33"},"5":{"questionNumber":5,"question":"Where do you currently find your meditation content or support?","answer":"App","isCustomAnswer":false,"timestamp":"2025-10-06 13:09:36"},"6":{"questionNumber":6,"question":"Do you have a preferred tradition or type of meditation?","answer":"Sufi","isCustomAnswer":false,"timestamp":"2025-10-06 13:09:39"},"7":{"questionNumber":7,"question":"How comfortable are you with meditation techniques or practices?","answer":"Beginner","isCustomAnswer":false,"timestamp":"2025-10-06 13:09:42"},"8":{"questionNumber":8,"question":"What specific challenges do you face when trying to meditate?","answer":"Finding time","isCustomAnswer":false,"timestamp":"2025-10-06 13:09:44"}}
+Next question calculated: complete
+
+=== /plan entered ===
+plan_exists=yes
+questionnaire_complete=yes
+ai_chat_complete=no
+legacy_complete=no
+answers_count=8
+answer_keys=1,2,3,4,5,6,7,8
+rendering=plan_view
+about_to_render_with_plan=yes
+renderTemplate_called_with=plan
+variables_extracted=yes
+
+=== PLAN TEMPLATE DEBUG ===
+plan_isset=yes
+plan_is_null=no
+plan_title=Stress-Free Moments: A Beginner's Meditation Journey
+plan_class=SentientCoach\Models\MeditationPlan
+template_included_successfully=yes
+content_length=15838
+template_rendered_successfully=yes
+template_content_length=15838
+renderTemplate_called_with=landing
+variables_extracted=yes
+template_included_successfully=yes
+content_length=4853
+renderTemplate_called_with=questionnaire
+variables_extracted=yes
+template_included_successfully=yes
+content_length=9324
+Question 1: No previous answer found
+[FRONTEND] Loading Q1: previousAnswer = none
+[FRONTEND] Before displayQuestion - customAnswer: "undefined", selectedOption: "null", isCustomAnswer: undefined
+[FRONTEND] After displayQuestion - customAnswer: "", selectedOption: "null", isCustomAnswer: false
+renderTemplate_called_with=landing
+variables_extracted=yes
+template_included_successfully=yes
+content_length=4853
+renderTemplate_called_with=ai-chat
+variables_extracted=yes
+template_included_successfully=yes
+content_length=8851
